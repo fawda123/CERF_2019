@@ -1,0 +1,106 @@
+\documentclass{beamer}
+\usetheme{Boadilla}
+\usepackage{graphicx}
+\usepackage[final]{animate}
+\usepackage{breqn}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{pgf}
+\usepackage{caption}
+
+% change format of enumerated lists
+\setbeamertemplate{enumerate items}[default]
+\setbeamertemplate{navigation symbols}{}
+
+% macros
+\newcommand{\emtxt}[1]{\textbf{\textit{{\color{mypal4} #1}}}}
+
+% change font size for figure captions
+\setbeamerfont{caption}{size=\scriptsize}
+
+\usefonttheme{serif}
+
+% custom colors
+<<mypal, echo = F, cache = T, results = tex>>=
+
+pal <- function(x) RColorBrewer::brewer.pal(x, 'GnBu')
+num_col <- 5
+
+for(i in 1:num_col){
+
+  col.nm <- paste0('mypal',i)
+  hexa <- paste0(gsub('#', '', pal(5)[i]))
+  cat(paste0('\\definecolor{', col.nm,'}{HTML}{',hexa,'}'))
+
+}
+
+bg_col <- pal(num_col)[1]
+
+pdf('fig/back_tmp.pdf',bg = bg_col)
+frame()
+invisible(dev.off())
+@
+
+% setup
+<<setup, cache = F, results = hide, echo = FALSE>>=
+# set global chunk options
+library(knitr)
+opts_chunk$set(fig.path = 'fig/', fig.align = 'center', fig.show = 'hold', message = F, results = 'hide', echo = F, dev = 'pdf', dev.args = list(family = 'serif'), fig.pos = '!ht', warning = F)
+options(replace.assign = T, width = 90)
+
+library(tidyverse)
+library(sf)
+library(mgcv)
+@
+
+% get online bib file
+<<echo = FALSE, cache = FALSE>>=
+refs <- httr::GET('https://raw.githubusercontent.com/fawda123/refs/master/refs.bib')
+refs <- rawToChar(refs$content)
+writeLines(refs, con = file('refs.bib'))
+@
+
+\setbeamercolor{title}{fg=mypal5} % main title
+\setbeamercolor{frametitle}{fg=mypal4, bg=mypal2} % frame titles
+\setbeamercolor{structure}{fg=mypal4} % bottom banner
+\setbeamercolor{normal text}{fg=mypal5}
+\usebackgroundtemplate{\includegraphics[height=\paperheight,width=\paperwidth]{fig/back_tmp.pdf}}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\title[Tracking SF Bay Water Quality]{\textbf{Tracking San Francisco Bay water quality using generalized additive models in an R Shiny framework}}
+\author[Beck et al.]{Marcus W. Beck\inst{1} \and Ian Wren\inst{2} \and Rebecca Murphy\inst{3} \and Perry de Valpine\inst{4} \and David Senn\inst{5}}
+
+\institute[TBEP]{$^1$Tampa Bay Estuary Program\\ $^2$San Francisco Baykeeper \\$^3$Cheseapeake Bay Program \\$^4$University of California Berkeley \\$^5$San Francisco Estuary Institute}
+
+\date{Nov. 4, 2019}
+
+% \titlegraphic{
+% \begin{minipage}{0.4\textwidth}
+% \includegraphics[width=\linewidth]{fig/titlegraphic.png}
+% \end{minipage}
+% \begin{minipage}{0.27\linewidth}
+% \vspace{0.05in}
+% \includegraphics[width=\linewidth]{fig/doc_title.pdf}
+% \end{minipage}
+% }
+
+%%%%%%
+\begin{frame}[shrink]
+\vspace{0.2in}
+\titlepage
+\end{frame}
+
+\section{Background}
+
+
+\section{References}
+\begin{frame}[t]{\textbf{References}}
+% \tiny
+% \setbeamertemplate{bibliography item}{}
+% \bibliographystyle{apalike_mine}
+% \bibliography{refs}
+\end{frame}
+
+\end{document}
