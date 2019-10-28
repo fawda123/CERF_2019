@@ -23,7 +23,7 @@
 % custom colors
 <<mypal, echo = F, cache = T, results = tex>>=
 
-pal <- function(x) RColorBrewer::brewer.pal(x, 'GnBu')
+pal <- function(x) rev(colorspace::sequential_hcl(x, palette = "PuBuGn"))
 num_col <- 5
 
 for(i in 1:num_col){
@@ -51,6 +51,8 @@ options(replace.assign = T, width = 90)
 library(tidyverse)
 library(sf)
 library(mgcv)
+
+source('R/funcs.R')
 @
 
 % get online bib file
@@ -69,26 +71,21 @@ writeLines(refs, con = file('refs.bib'))
 \begin{document}
 \SweaveOpts{concordance=TRUE}
 
-\title[Tracking SF Bay Water Quality]{\textbf{Tracking San Francisco Bay water quality using generalized additive models in an R Shiny framework}}
+\title[Tracking SF Bay Water Quality]{Tracking San Francisco Bay water quality using generalized additive models in an R Shiny framework}
 \author[Beck et al.]{Marcus W. Beck\inst{1} \and Ian Wren\inst{2} \and Rebecca Murphy\inst{3} \and Perry de Valpine\inst{4} \and David Senn\inst{5}}
 
 \institute[TBEP]{$^1$Tampa Bay Estuary Program\\ $^2$San Francisco Baykeeper \\$^3$Cheseapeake Bay Program \\$^4$University of California Berkeley \\$^5$San Francisco Estuary Institute}
 
 \date{Nov. 4, 2019}
 
-% \titlegraphic{
-% \begin{minipage}{0.4\textwidth}
-% \includegraphics[width=\linewidth]{fig/titlegraphic.png}
-% \end{minipage}
-% \begin{minipage}{0.27\linewidth}
-% \vspace{0.05in}
-% \includegraphics[width=\linewidth]{fig/doc_title.pdf}
-% \end{minipage}
-% }
+\titlegraphic{
+\vspace{-0.1in}
+\includegraphics[width=\linewidth]{fig/titlegraph.pdf}
+}
 
 %%%%%%
-\begin{frame}[shrink]
-\vspace{0.2in}
+\begin{frame}
+% \vspace{0.2in}
 \titlepage
 \end{frame}
 
