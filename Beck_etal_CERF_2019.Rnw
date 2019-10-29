@@ -51,8 +51,11 @@ options(replace.assign = T, width = 90)
 library(tidyverse)
 library(sf)
 library(mgcv)
+library(Hmisc)
 
 source('R/funcs.R')
+
+load(file = here::here('data', 'perf.RData'))
 @
 
 % get online bib file
@@ -210,12 +213,17 @@ Questions of concern: \\~\\
 
 %%%%%%
 \begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-For each station, chlorophyll was modelled as a function of annual and seasonal changes over time {\tiny baytrends R package, \cite{Murphy19b}}\\~\\
-Four GAMs were evaluated and compared using standard methods for model comparison (AIC, R\textsuperscript{2}, GCV) \\~\\
+\onslide<1->
+For each station, chlorophyll was modelled as a function of annual and seasonal changes over time {\tiny \cite[baytrends R package]{Murphy19b}}\\~\\
+Four GAMs were evaluated and compared using standard methods for model comparison (R\textsuperscript{2}, GCV) \\~\\
 \begin{itemize}
+\onslide<2->
 \item \texttt{gam0}: chl $\sim$ year + s(doy)
+\onslide<3->
 \item \texttt{gam1}: chl $\sim$ year + s(doy) + s(year)
+\onslide<4->
 \item \texttt{gam2}: chl $\sim$ year + s(doy) + s(year) + ti(doy, year)
+\onslide<5->
 \item \texttt{gam6}: chl $\sim$ year + s(doy) + s(year, k = large)
 \end{itemize}
 \end{frame}
@@ -253,16 +261,57 @@ Four GAMs were evaluated and compared using standard methods for model compariso
 \section{Results}
 
 %%%%%%
-\begin{frame}{\textbf{Descriptive results of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \vspace{-0.2in}
 \begin{center}
-\animategraphics[controls,width=\linewidth]{12}{fig/anitst}{}{} %frame rate is 12 per/sec
+\animategraphics[controls,width=\linewidth]{12}{fig/anidoy}{}{} %frame rate is 12 per/sec
 \end{center}
 \end{frame}
 
 %%%%%%
-\begin{frame}{\textbf{Descriptive results of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-Overall comparisons of model structure across stations
+\begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\vspace{-0.2in}
+\begin{center}
+\includegraphics[width=\textwidth]{fig/alldoy.pdf}
+\end{center}
+\end{frame}
+
+%%%%%%
+\begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+
+\onslide<1->
+<<results=tex, echo=F>>=
+totab <- perf %>% 
+  group_by(station) %>% 
+  mutate(
+    minaic = AIC == min(AIC),
+    AIC = round(AIC, 1),
+    AIC = as.character(AIC, 1),
+    AIC = ifelse(minaic, paste0('{\\tiny \\emtxt{', AIC, '}}'), AIC)
+  ) %>% 
+  select(station, Model = modi, AIC) %>% 
+  spread(station, AIC)
+
+latex(totab, file = '', rowlabel = 'Model', size = 'tiny', rowname = NULL, cgroup = c('', 'Stations (north to south'), 
+      n.cgroup = c(1, 9), caption = "GCV summary statistics by station and model")
+@
+
+\onslide<2->
+<<results=tex, echo=F>>=
+totab <- perf %>% 
+  group_by(station) %>% 
+  mutate(
+    minR2 = R2 == max(R2),
+    R2 = round(R2, 2),
+    R2 = as.character(R2),
+    R2 = ifelse(minR2, paste0('\\emtxt{', R2, '}'), R2)
+  ) %>% 
+  select(station, Model = modi, R2) %>% 
+  spread(station, R2)
+
+latex(totab, file = '', rowlabel = 'Model', size = 'tiny', rowname = NULL, cgroup = c('', 'Stations (north to south)'), 
+      n.cgroup = c(1, 9), caption = "R-squared summary statistics by station and model")
+@
 \end{frame}
 
 %%%%%%
@@ -275,6 +324,7 @@ Extension to other response endpoints
 Why do we need this?
 Synthesis of results in a communicable format
 Answer to specific questions
+clarity of description - how has seasonal component changed over time.
 
 %%%%%%
 Understand implications and limitations of different methods

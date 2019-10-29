@@ -379,6 +379,7 @@ toplo <- prdplo %>%
 
 bgcol <- pal(5)[1]
 
+# use gganimate for smooth transitions
 anim <- ggplot(toplo, aes(x = doy, colour = yr)) + 
   geom_line(aes(y = chl), size = 1) + 
   theme_bw(base_family = 'serif', base_size = 18) + 
@@ -422,8 +423,64 @@ for(fl in fls){
 
 # combine files in a single pdf
 fls <- list.files('fig', pattern = '^yrplo.*\\.pdf', full.names = T)
-pdftools::pdf_combine(fls, output = 'fig/anitst.pdf')
+pdftools::pdf_combine(fls, output = 'fig/anidoy.pdf')
 
 # clean up
 file.remove(fls)
 file.remove(gsub('\\.pdf', '\\.png', fls))
+
+
+# all doy results from animation ------------------------------------------
+
+p <- ggplot(toplo, aes(x = doy, colour = yr, group = factor(yr))) + 
+  geom_line(aes(y = chl)) + 
+  theme_bw(base_family = 'serif', base_size = 18) + 
+  theme(
+    legend.position = 'right', 
+    legend.title = element_blank(), 
+    axis.text.x= element_text(size = 8),
+    plot.background = element_rect(fill= bgcol, 
+                                   colour = bgcol),
+    panel.background = element_rect(fill=bgcol, 
+                                    colour = bgcol), 
+    legend.background = element_rect(fill = bgcol, 
+                                     colour = bgcol), 
+    strip.background = element_blank()
+  ) + 
+  scale_colour_continuous_sequential(palette = colpal, rev = T, begin = 0.2) +
+  guides(colour = guide_colourbar(barheight = 20, barwidth = 1)) +
+  facet_grid(modi ~ station) +
+  labs(x = 'Day of year', title = 'All years', y = ylabs)
+ 
+pdf(here::here('fig', 'alldoy.pdf'), width = 11, height = 6.5)
+p
+dev.off()
+
+# mode performance results ------------------------------------------------
+
+# summary stats of GAMs, model fit/perf
+perf <- modssta_chl %>% 
+  mutate(
+    perf = purrr::map(modv, function(modv){
+      
+      AIC <- AIC(modv)
+      GCV <- modv$gcv.ubre
+      R2 <- summary(modv)$r.sq
+      
+      out <- data.frame(
+        AIC = AIC,
+        GCV = GCV,
+        R2 = R2
+      )
+      
+      return(out)
+      
+    })
+  ) %>% 
+  select(station, modi, perf) %>% 
+  unnest(perf)
+
+save(perf, file = here::here('data', 'perf.RData'), compress = 'xz')
+
+
+

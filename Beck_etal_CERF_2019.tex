@@ -175,12 +175,17 @@ Questions of concern: \\~\\
 
 %%%%%%
 \begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-For each station, chlorophyll was modelled as a function of annual and seasonal changes over time {\tiny baytrends R package, \cite{Murphy19b}}\\~\\
-Four GAMs were evaluated and compared using standard methods for model comparison (AIC, R\textsuperscript{2}, GCV) \\~\\
+\onslide<1->
+For each station, chlorophyll was modelled as a function of annual and seasonal changes over time {\tiny \cite[baytrends R package]{Murphy19b}}\\~\\
+Four GAMs were evaluated and compared using standard methods for model comparison (R\textsuperscript{2}, GCV) \\~\\
 \begin{itemize}
+\onslide<2->
 \item \texttt{gam0}: chl $\sim$ year + s(doy)
+\onslide<3->
 \item \texttt{gam1}: chl $\sim$ year + s(doy) + s(year)
+\onslide<4->
 \item \texttt{gam2}: chl $\sim$ year + s(doy) + s(year) + ti(doy, year)
+\onslide<5->
 \item \texttt{gam6}: chl $\sim$ year + s(doy) + s(year, k = large)
 \end{itemize}
 \end{frame}
@@ -218,17 +223,62 @@ Four GAMs were evaluated and compared using standard methods for model compariso
 \section{Results}
 
 %%%%%%
-\begin{frame}{\textbf{Descriptive results of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \vspace{-0.2in}
 \begin{center}
-\animategraphics[controls,width=\linewidth]{12}{fig/anitst}{}{} %frame rate is 12 per/sec
+\animategraphics[controls,width=\linewidth]{12}{fig/anidoy}{}{} %frame rate is 12 per/sec
 \end{center}
 \end{frame}
 
 %%%%%%
-\begin{frame}{\textbf{Descriptive results of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-Overall comparisons of model structure across stations
+\begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\vspace{-0.2in}
+\begin{center}
+\includegraphics[width=\textwidth]{fig/alldoy.pdf}
+\end{center}
 \end{frame}
+
+%%%%%%
+\begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+
+\onslide<1->
+%latex.default(totab, file = "", rowlabel = "Model", size = "tiny",     rowname = NULL, cgroup = c("", "Stations (north to south"),     n.cgroup = c(1, 9), caption = "GCV summary statistics by station and model")%
+\begin{table}[!tbp]
+{\tiny
+\caption{GCV summary statistics by station and model\label{totab}} 
+\begin{center}
+\begin{tabular}{lclllllllll}
+\hline\hline
+\multicolumn{1}{c}{\bfseries }&\multicolumn{1}{c}{\bfseries }&\multicolumn{9}{c}{\bfseries Stations (north to south}\tabularnewline
+\cline{3-11}
+\multicolumn{1}{c}{Model}&\multicolumn{1}{c}{}&\multicolumn{1}{c}{18}&\multicolumn{1}{c}{21}&\multicolumn{1}{c}{22}&\multicolumn{1}{c}{24}&\multicolumn{1}{c}{27}&\multicolumn{1}{c}{30}&\multicolumn{1}{c}{32}&\multicolumn{1}{c}{34}&\multicolumn{1}{c}{36}\tabularnewline
+\hline
+gam0&&-117.5&-30.6&-20.6&38.9&174.4&205.5&232.9&256.6&238.7\tabularnewline
+gam1&&-138.8&-89.3&-70.3&-18.7&104.1&111.5&162.6&196&182\tabularnewline
+gam2&&{\tiny \emtxt{-141.8}}&-147.3&{\tiny \emtxt{-116.4}}&-98.5&4&49.6&108.1&189.9&147.2\tabularnewline
+gam6&&-139.5&{\tiny \emtxt{-235.2}}&-116.3&{\tiny \emtxt{-176.8}}&{\tiny \emtxt{-92.1}}&{\tiny \emtxt{-115.9}}&{\tiny \emtxt{-149}}&{\tiny \emtxt{-3.3}}&{\tiny \emtxt{-65.5}}\tabularnewline
+\hline
+\end{tabular}\end{center}}
+\end{table}
+\onslide<2->
+%latex.default(totab, file = "", rowlabel = "Model", size = "tiny",     rowname = NULL, cgroup = c("", "Stations (north to south)"),     n.cgroup = c(1, 9), caption = "R-squared summary statistics by station and model")%
+\begin{table}[!tbp]
+{\tiny
+\caption{R-squared summary statistics by station and model\label{totab}} 
+\begin{center}
+\begin{tabular}{lclllllllll}
+\hline\hline
+\multicolumn{1}{c}{\bfseries }&\multicolumn{1}{c}{\bfseries }&\multicolumn{9}{c}{\bfseries Stations (north to south)}\tabularnewline
+\cline{3-11}
+\multicolumn{1}{c}{Model}&\multicolumn{1}{c}{}&\multicolumn{1}{c}{18}&\multicolumn{1}{c}{21}&\multicolumn{1}{c}{22}&\multicolumn{1}{c}{24}&\multicolumn{1}{c}{27}&\multicolumn{1}{c}{30}&\multicolumn{1}{c}{32}&\multicolumn{1}{c}{34}&\multicolumn{1}{c}{36}\tabularnewline
+\hline
+gam0&&0.47&0.41&0.37&0.37&0.33&0.36&0.32&0.31&0.32\tabularnewline
+gam1&&0.51&0.48&0.43&0.44&0.43&0.48&0.41&0.41&0.43\tabularnewline
+gam2&&\emtxt{0.53}&0.54&0.48&0.53&0.54&0.54&0.49&0.41&0.48\tabularnewline
+gam6&&0.51&\emtxt{0.68}&\emtxt{0.54}&\emtxt{0.66}&\emtxt{0.68}&\emtxt{0.72}&\emtxt{0.75}&\emtxt{0.69}&\emtxt{0.75}\tabularnewline
+\hline
+\end{tabular}\end{center}}
+\end{table}\end{frame}
 
 %%%%%%
 \begin{frame}{\textbf{Descriptive results of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
@@ -240,6 +290,7 @@ Extension to other response endpoints
 Why do we need this?
 Synthesis of results in a communicable format
 Answer to specific questions
+clarity of description - how has seasonal component changed over time.
 
 %%%%%%
 Understand implications and limitations of different methods
