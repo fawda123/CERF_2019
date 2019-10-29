@@ -97,8 +97,11 @@ writeLines(refs, con = file('refs.bib'))
 %%%%%%
 \begin{frame}{\textbf{Why do we care about trends?} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \begin{itemize}
+\onslide<1->
 \item Provide information on natural variation of water quality parameters - identify 1st order principles to understand a system  \\~\\
+\onslide<2->
 \item Document historical changes in response to management actions - did investments make a difference? \\~\\
+\onslide<3->
 \item Anticipate future changes with proposed restoration or management - understand the past to predict the future
 \end{itemize}
 \end{frame}
@@ -161,27 +164,27 @@ flow changes
 \section{Methods}
 
 %%%%%%
-\begin{frame}{\textbf{South San Francisco Bay} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\begin{frame}[t]{\textbf{South San Francisco Bay} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \begin{columns}
 \begin{column}{0.5\textwidth}
 \begin{itemize}
 \onslide<1->
-\item Historically a high-nutrients, high-turbidity, low-productivity system {\tiny \cite{Cole84,Alpine88}} \\~\\
+\item A high-nutrient, high-turbidity, low-productivity system {\tiny \cite{Cole84,Alpine88}} \\~\\
 \onslide<2->
-\item Recent increases observed in summer-fall chl-a concentrations {\tiny \cite{Cloern07,Cloern12b}} \\~\\
+\item Recent increases observed in summer/fall chl-a {\tiny \cite{Cloern07,Cloern12b}} \\~\\
 \onslide<3->
-\item Lead to creation of a Nutrient Management Strategy (NMS) to characterize status/trends and management needs 
+\item Nutrient Management Strategy (NMS) to characterize status/trends and management needs 
 \end{itemize}
 \end{column}
 \begin{column}{0.5\textwidth}
 \onslide<1->
-\centerline{\includegraphics[width = 0.95\textwidth]{fig/map.pdf}}
+\centerline{\includegraphics[width = \textwidth]{fig/map.pdf}}
 \end{column}
 \end{columns}
 \end{frame}
 
 %%%%%%
-\begin{frame}{\textbf{South San Francisco Bay} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\begin{frame}[t]{\textbf{South San Francisco Bay} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \begin{columns}
 \begin{column}{0.5\textwidth}
 \onslide<1->
@@ -197,7 +200,7 @@ Questions of concern: \\~\\
 \end{column}
 \begin{column}{0.5\textwidth}
 \onslide<1->
-\centerline{\includegraphics[width = 0.95\textwidth]{fig/map.pdf}}
+\centerline{\includegraphics[width = \textwidth]{fig/map.pdf}}
 \end{column}
 \end{columns}
 \end{frame}
@@ -205,26 +208,21 @@ Questions of concern: \\~\\
 %%%%%%
 \begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \begin{itemize}
-\item The Chesapeake Bay Program (CBP) has been wrestling with similar issues, i.e., can a flexible statistical analysis method be applied to evaluate significant, non-linear changes in water quality parameters? {\tiny \cite{Beck17,Murphy19}} \\~\\
-\item We applied Generalized Additive Models (GAMs) developed by CBP to characterize long-term trends at nine stations over thirty years in South SF Bay \\~\\
-\item An interactive website was also developed using R Shiny to explore trends and communicate results with stakeholders
-\end{itemize}
-\end{frame}
-
-%%%%%%
-\begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \onslide<1->
-For each station, chlorophyll was modelled as a function of annual and seasonal changes over time {\tiny \cite[baytrends R package]{Murphy19b}}\\~\\
-Four GAMs were evaluated and compared using standard methods for model comparison (R\textsuperscript{2}, GCV) \\~\\
-\begin{itemize}
+\item The Chesapeake Bay Program (CBP) has been wrestling with similar issues {\tiny \cite{Beck17,Murphy19}} \\~\\
 \onslide<2->
-\item \texttt{gam0}: chl $\sim$ year + s(doy)
+\item We applied Generalized Additive Models (GAMs) developed by CBP to characterize long-term trends at nine stations over thirty years in South SF Bay \\~\\
 \onslide<3->
-\item \texttt{gam1}: chl $\sim$ year + s(doy) + s(year)
+\item For each station, chlorophyll was modelled as a function of annual and seasonal changes over time using four model structures {\tiny \cite[baytrends R package]{Murphy19b}}\\~\\
+\begin{itemize}
+\item \texttt{gam0}: chl $\sim$ year + s(doy)
 \onslide<4->
-\item \texttt{gam2}: chl $\sim$ year + s(doy) + s(year) + ti(doy, year)
+\item \texttt{gam1}: chl $\sim$ year + s(doy) + s(year)
 \onslide<5->
+\item \texttt{gam2}: chl $\sim$ year + s(doy) + s(year) + ti(doy, year)
+\onslide<6->
 \item \texttt{gam6}: chl $\sim$ year + s(doy) + s(year, k = large)
+\end{itemize}
 \end{itemize}
 \end{frame}
 
@@ -270,7 +268,7 @@ Four GAMs were evaluated and compared using standard methods for model compariso
 
 %%%%%%
 \begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-\vspace{-0.2in}
+\vspace{-0.15in}
 \begin{center}
 \includegraphics[width=\textwidth]{fig/alldoy.pdf}
 \end{center}
@@ -287,12 +285,12 @@ totab <- perf %>%
     minaic = AIC == min(AIC),
     AIC = round(AIC, 1),
     AIC = as.character(AIC, 1),
-    AIC = ifelse(minaic, paste0('{\\tiny \\emtxt{', AIC, '}}'), AIC)
+    AIC = ifelse(minaic, paste0('\\textbf{\\color{mypal3} ', AIC, '}'), AIC)
   ) %>% 
   select(station, Model = modi, AIC) %>% 
   spread(station, AIC)
 
-latex(totab, file = '', rowlabel = 'Model', size = 'tiny', rowname = NULL, cgroup = c('', 'Stations (north to south'), 
+latex(totab, file = '', rowlabel = 'Model', size = 'tiny', rowname = NULL, cgroup = c('', 'Stations (north to south)'), 
       n.cgroup = c(1, 9), caption = "GCV summary statistics by station and model")
 @
 
@@ -304,7 +302,7 @@ totab <- perf %>%
     minR2 = R2 == max(R2),
     R2 = round(R2, 2),
     R2 = as.character(R2),
-    R2 = ifelse(minR2, paste0('\\emtxt{', R2, '}'), R2)
+    R2 = ifelse(minR2, paste0('\\textbf{\\color{mypal3} ', R2, '}'), R2)
   ) %>% 
   select(station, Model = modi, R2) %>% 
   spread(station, R2)
@@ -315,45 +313,103 @@ latex(totab, file = '', rowlabel = 'Model', size = 'tiny', rowname = NULL, cgrou
 \end{frame}
 
 %%%%%%
-\begin{frame}{\textbf{Descriptive results of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-Extension to other response endpoints
+\begin{frame}{\textbf{Conclusions from additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\begin{itemize}
+\onslide<1->
+\item More complex models provided more ``parsimonious'' fit \\~\\
+\begin{itemize}
+\item Non-monotonic trends were obvious 
+\item Interactions between year/season were common \\~\\
+\end{itemize}
+\onslide<2->
+\item Clear demarcation of annual and seasonal trends allowed a description of the separate components \\~\\
+\begin{itemize}
+\item Annual trends showed increase, with some decreases in recent period of record
+\item Change in dominance between spring/fall peaks were observed \\~\\
+\end{itemize}
+\end{itemize}
+\onslide<3->
+\centerline{\emtxt{How can this information support decision-making??}}
 \end{frame}
 
 %%%%%%
 \begin{frame}{\textbf{Shiny interactive web platform} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-Why do we need this?
-Synthesis of results in a communicable format
-Answer to specific questions
-clarity of description - how has seasonal component changed over time.
-
-%%%%%%
-Understand implications and limitations of different methods
-\end{frame}
-\begin{frame}{\textbf{Shiny interactive web platform} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-Example 1
+\vspace{-0.15in}
+\begin{center}
+\emtxt{https://sccwrp.shinyapps.io/sfbaytrends}
+\end{center}
+\centerline{\fbox{\includegraphics[width = 0.85\textwidth]{fig/shiny1.png}}}
 \end{frame}
 
 %%%%%%
 \begin{frame}{\textbf{Shiny interactive web platform} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-Example 2
+\vspace{-0.15in}
+\begin{center}
+\emtxt{Explore results for each station, by model}
+\end{center}
+\centerline{\fbox{\includegraphics[width = 0.85\textwidth]{fig/shiny2.png}}}
 \end{frame}
 
 %%%%%%
 \begin{frame}{\textbf{Shiny interactive web platform} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-Example 3
+\vspace{-0.25in}
+\begin{center}
+\emtxt{Perform trend tests with selected years}
+\end{center}
+\begin{overprint}
+\onslide<1>\centerline{\fbox{\includegraphics[width = 0.95\textwidth]{fig/shiny3a.png}}}
+\onslide<2>\centerline{\fbox{\includegraphics[width = 0.95\textwidth]{fig/shiny3b.png}}}
+\end{overprint}
+\end{frame}
+
+%%%%%%
+\begin{frame}{\textbf{Shiny interactive web platform} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\vspace{-0.15in}
+\begin{center}
+\emtxt{Evaluate trends between years, by season}
+\end{center}
+\begin{overprint}
+\onslide<1>\centerline{\fbox{\includegraphics[width = 0.95\textwidth]{fig/shiny4a.png}}}
+\onslide<2>\centerline{\fbox{\includegraphics[width = 0.95\textwidth]{fig/shiny4b.png}}}
+\end{overprint}
 \end{frame}
 
 \section{Conclusions}
 
 %%%%%%
 \begin{frame}{\textbf{Summary and next steps} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\begin{itemize}
+\onslide<1->
+\item This analysis was a proof of concept \\~\\
+\begin{itemize}
+\item Does the GAM approach developed by the CBP transfer to SF Bay?
+\item Do additional considerations need to be made? \\~\\
+\end{itemize}
+\onslide<2->
+\item Shiny platform helps communicate results to stakeholder  \\~\\
+\begin{itemize}
+\item Which station, model, and time period do I care about?
+\item How can I understand limitations of the different models? \\~\\
+\end{itemize}
+\onslide<3->
+\item Follow-up work: \\~\\
+\begin{itemize}
+\item Extend to other locations in the Bay
+\item Explore trend analysis of aggregated stations
+\item Incorporate additional variables - as response or as explanatory
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+%%%%%%
+\begin{frame}{\textbf{Acknowledgments} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 
 \end{frame}
 
-
 \section{References}
 
-\begin{frame}[t]{\textbf{References}}
+%%%%%%
+\begin{frame}[t]{\textbf{References} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \tiny
 \setbeamertemplate{bibliography item}{}
 \bibliographystyle{apalike_mine}
