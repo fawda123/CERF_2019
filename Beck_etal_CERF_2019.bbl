@@ -1,0 +1,46 @@
+ \newcommand{\noop}[1]{}
+\begin{thebibliography}{}
+
+\bibitem[Alpine and Cloern, 1988]{Alpine88}
+Alpine AE, Cloern JE. 1988.
+\newblock Phytoplankton growth rates in a light-limited environment, {S}an
+  {F}rancisco {B}ay.
+\newblock Marine Ecology Progress Series, 44(2):167--173.
+
+\bibitem[Beck and Murphy, 2017]{Beck17}
+Beck MW, Murphy RR. 2017.
+\newblock Numerical and qualitative contrasts of two statistical models for
+  water quality change in tidal waters.
+\newblock Journal of the American Water Resources Association, 53(1):197--219.
+
+\bibitem[Cloern and Jassby, 2012]{Cloern12b}
+Cloern JE, Jassby AD. 2012.
+\newblock Drivers of change in estuarine-coastal ecosystems: Discoveries from
+  four decades of study in {S}an {F}rancisco {B}ay.
+\newblock Reviews of Geophysics, 50(4):1--33.
+
+\bibitem[Cloern et~al., 2007]{Cloern07}
+Cloern JE, Jassby AD, Thompson JK, Hieb KA. 2007.
+\newblock A cold phase of the {E}ast {P}acific triggers new phytoplankton
+  blooms in {S}an {F}rancisco {B}ay.
+\newblock Proceedings of the National Academy of Sciences of the United States
+  of America, 104(47):18561--18565.
+
+\bibitem[Cole and Cloern, 1984]{Cole84}
+Cole BE, Cloern JE. 1984.
+\newblock Significance of biomass and light availability to phytoplankton
+  productivity in {S}an {F}rancisco {B}ay.
+\newblock Marine Ecology Progress Series, 17(1):15--24.
+
+\bibitem[Murphy et~al., 2019a]{Murphy19b}
+Murphy R, Perry E, Keisman J, Harcum J, Leppo EW. 2019a.
+\newblock baytrends: Long Term Water Quality Trend Analysis.
+\newblock R package version 1.1.0.
+
+\bibitem[Murphy et~al., 2019b]{Murphy19}
+Murphy RR, Perry E, Harcum J, Keisman J. 2019b.
+\newblock A {G}eneralized {A}dditive {M}odel {A}pproach to evaluating water
+  quality: {C}hesapeake {B}ay case study.
+\newblock Environmenal Modelling \& Software, 118:1--13.
+
+\end{thebibliography}

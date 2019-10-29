@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.8)  28 OCT 2019 15:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.8)  28 OCT 2019 21:14
 entering extended mode
 **./Beck_etal_CERF_2019.tex
 (Beck_etal_CERF_2019.tex
@@ -1389,13 +1389,13 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 55.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<fig/titlegraph.pdf, id=22, 1084.05pt x 144.54pt>
+<fig/titlegraph.pdf, id=34, 1084.05pt x 144.54pt>
 File: fig/titlegraph.pdf Graphic file (type pdf)
  <use fig/titlegraph.pdf>
 Package pdftex.def Info: fig/titlegraph.pdf used on input line 55.
 (pdftex.def)             Requested size: 342.2953pt x 45.6384pt.
 
-<fig/back_tmp.pdf, id=23, 505.89pt x 505.89pt>
+<fig/back_tmp.pdf, id=35, 505.89pt x 505.89pt>
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
 Package pdftex.def Info: fig/back_tmp.pdf used on input line 55.
@@ -1403,92 +1403,31 @@ Package pdftex.def Info: fig/back_tmp.pdf used on input line 55.
  [1
 
 {C:/Users/Marcus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./fig/back
-_tmp.pdf> <./fig/titlegraph.pdf>] <fig/logo.png, id=44, 492.8814pt x 210.5466pt
+_tmp.pdf> <./fig/titlegraph.pdf>] <fig/logo.png, id=58, 492.8814pt x 210.5466pt
 >
 File: fig/logo.png Graphic file (type png)
 
 <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 62.
+Package pdftex.def Info: fig/logo.png used on input line 66.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 62.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 66.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
  [2
 
  <./fig/logo.png>]
+<fig/ts_ex.pdf, id=68, 867.24pt x 144.54pt>
+File: fig/ts_ex.pdf Graphic file (type pdf)
+ <use fig/ts_ex.pdf>
+Package pdftex.def Info: fig/ts_ex.pdf used on input line 97.
+(pdftex.def)             Requested size: 342.2953pt x 57.04965pt.
+
+Overfull \hbox (1.37787pt too wide) in paragraph at lines 97--97
+[]$[]$  
+ []
+
 File: fig/logo.png Graphic file (type png)
-
-<use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 67.
-(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
-File: fig/back_tmp.pdf Graphic file (type pdf)
- <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 67.
-(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [3
-
-]
-File: fig/logo.png Graphic file (type png)
- <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 72.
-(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
-File: fig/back_tmp.pdf Graphic file (type pdf)
-
-<use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 72.
-(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [4
-
-]
-File: fig/logo.png Graphic file (type png)
- <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 77.
-(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
-File: fig/back_tmp.pdf Graphic file (type pdf)
- <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 77.
-(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [5
-
-]
-File: fig/logo.png Graphic file (type png)
-
-<use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 82.
-(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
-File: fig/back_tmp.pdf Graphic file (type pdf)
- <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 82.
-(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [6
-
-]
-File: fig/logo.png Graphic file (type png)
- <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 87.
-(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
-File: fig/back_tmp.pdf Graphic file (type pdf)
-
-<use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 87.
-(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [7
-
-]
-File: fig/logo.png Graphic file (type png)
- <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 92.
-(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
-File: fig/back_tmp.pdf Graphic file (type pdf)
- <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 92.
-(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [8
-
-]
-File: fig/logo.png Graphic file (type png)
-
 <use fig/logo.png>
 Package pdftex.def Info: fig/logo.png used on input line 97.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
@@ -1496,96 +1435,565 @@ File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
 Package pdftex.def Info: fig/back_tmp.pdf used on input line 97.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [9
+ [3
 
-]
+ <./fig/ts_ex.pdf>]
+File: fig/ts_ex.pdf Graphic file (type pdf)
+
+<use fig/ts_ex.pdf>
+Package pdftex.def Info: fig/ts_ex.pdf used on input line 121.
+(pdftex.def)             Requested size: 342.2953pt x 57.04965pt.
+ <fig/schematic2.pdf, id=82, 325.215pt x 126.4725pt>
+File: fig/schematic2.pdf Graphic file (type pdf)
+
+<use fig/schematic2.pdf>
+Package pdftex.def Info: fig/schematic2.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+ <fig/schematic3.pdf, id=83, 325.215pt x 126.4725pt>
+File: fig/schematic3.pdf Graphic file (type pdf)
+
+<use fig/schematic3.pdf>
+Package pdftex.def Info: fig/schematic3.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+ <fig/schematic4.pdf, id=84, 325.215pt x 126.4725pt>
+File: fig/schematic4.pdf Graphic file (type pdf)
+
+<use fig/schematic4.pdf>
+Package pdftex.def Info: fig/schematic4.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+ <fig/schematic5.pdf, id=85, 325.215pt x 126.4725pt>
+File: fig/schematic5.pdf Graphic file (type pdf)
+
+<use fig/schematic5.pdf>
+Package pdftex.def Info: fig/schematic5.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 102.
+Package pdftex.def Info: fig/logo.png used on input line 121.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 121.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [4
+
+ <./fig/schematic2.pdf> <./fig/schematic3.pdf> <./fig/schematic4.pdf> <./fig/sc
+hematic5.pdf>]
+File: fig/ts_ex.pdf Graphic file (type pdf)
+ <use fig/ts_ex.pdf>
+Package pdftex.def Info: fig/ts_ex.pdf used on input line 121.
+(pdftex.def)             Requested size: 342.2953pt x 57.04965pt.
+File: fig/schematic2.pdf Graphic file (type pdf)
+ <use fig/schematic2.pdf>
+Package pdftex.def Info: fig/schematic2.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+File: fig/schematic3.pdf Graphic file (type pdf)
+ <use fig/schematic3.pdf>
+Package pdftex.def Info: fig/schematic3.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+File: fig/schematic4.pdf Graphic file (type pdf)
+
+<use fig/schematic4.pdf>
+Package pdftex.def Info: fig/schematic4.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+File: fig/schematic5.pdf Graphic file (type pdf)
+ <use fig/schematic5.pdf>
+Package pdftex.def Info: fig/schematic5.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 121.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
 
 <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 102.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 121.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [5
+
+]
+File: fig/ts_ex.pdf Graphic file (type pdf)
+ <use fig/ts_ex.pdf>
+Package pdftex.def Info: fig/ts_ex.pdf used on input line 121.
+(pdftex.def)             Requested size: 342.2953pt x 57.04965pt.
+File: fig/schematic2.pdf Graphic file (type pdf)
+ <use fig/schematic2.pdf>
+Package pdftex.def Info: fig/schematic2.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+File: fig/schematic3.pdf Graphic file (type pdf)
+
+<use fig/schematic3.pdf>
+Package pdftex.def Info: fig/schematic3.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+File: fig/schematic4.pdf Graphic file (type pdf)
+ <use fig/schematic4.pdf>
+Package pdftex.def Info: fig/schematic4.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+File: fig/schematic5.pdf Graphic file (type pdf)
+ <use fig/schematic5.pdf>
+Package pdftex.def Info: fig/schematic5.pdf used on input line 121.
+(pdftex.def)             Requested size: 136.91862pt x 53.24738pt.
+File: fig/logo.png Graphic file (type png)
+
+<use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 121.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 121.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [6
+
+]
+<fig/map.pdf, id=133, 361.35pt x 433.62pt>
+File: fig/map.pdf Graphic file (type pdf)
+ <use fig/map.pdf>
+Package pdftex.def Info: fig/map.pdf used on input line 143.
+(pdftex.def)             Requested size: 162.58974pt x 195.10735pt.
+File: fig/logo.png Graphic file (type png)
+
+<use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 143.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 143.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [7
+
+ <./fig/map.pdf>]
+File: fig/map.pdf Graphic file (type pdf)
+
+<use fig/map.pdf>
+Package pdftex.def Info: fig/map.pdf used on input line 143.
+(pdftex.def)             Requested size: 162.58974pt x 195.10735pt.
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 143.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 143.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [8
+
+]
+File: fig/map.pdf Graphic file (type pdf)
+
+<use fig/map.pdf>
+Package pdftex.def Info: fig/map.pdf used on input line 143.
+(pdftex.def)             Requested size: 162.58974pt x 195.10735pt.
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 143.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 143.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [9
+
+]
+File: fig/map.pdf Graphic file (type pdf)
+
+<use fig/map.pdf>
+Package pdftex.def Info: fig/map.pdf used on input line 165.
+(pdftex.def)             Requested size: 162.58974pt x 195.10735pt.
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 165.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 165.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
  [10
 
 ]
+File: fig/map.pdf Graphic file (type pdf)
+
+<use fig/map.pdf>
+Package pdftex.def Info: fig/map.pdf used on input line 165.
+(pdftex.def)             Requested size: 162.58974pt x 195.10735pt.
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 107.
+Package pdftex.def Info: fig/logo.png used on input line 165.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 107.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 165.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
  [11
 
 ]
-File: fig/logo.png Graphic file (type png)
+File: fig/map.pdf Graphic file (type pdf)
 
-<use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 112.
+<use fig/map.pdf>
+Package pdftex.def Info: fig/map.pdf used on input line 165.
+(pdftex.def)             Requested size: 162.58974pt x 195.10735pt.
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 165.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 112.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 165.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
  [12
 
 ]
+File: fig/map.pdf Graphic file (type pdf)
+
+<use fig/map.pdf>
+Package pdftex.def Info: fig/map.pdf used on input line 165.
+(pdftex.def)             Requested size: 162.58974pt x 195.10735pt.
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 117.
+Package pdftex.def Info: fig/logo.png used on input line 165.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
-
-<use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 117.
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 165.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
  [13
 
 ]
 File: fig/logo.png Graphic file (type png)
- <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 122.
+
+<use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 174.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 122.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 174.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
  [14
+
+]
+LaTeX Font Info:    Try loading font information for T1+aett on input line 186.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+)
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 186.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+
+<use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 186.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [15
+
+]
+<fig/gamex.pdf, id=217, page=1, 361.35pt x 325.215pt>
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 1>
+Package pdftex.def Info: fig/gamex.pdf, page1 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+
+<fig/gamex.pdf, id=218, page=2, 361.35pt x 325.215pt>
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 2>
+Package pdftex.def Info: fig/gamex.pdf, page2 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+
+<fig/gamex.pdf, id=219, page=3, 361.35pt x 325.215pt>
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 3>
+Package pdftex.def Info: fig/gamex.pdf, page3 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+
+<fig/gamex.pdf, id=220, page=4, 361.35pt x 325.215pt>
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 4>
+Package pdftex.def Info: fig/gamex.pdf, page4 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+
+<fig/gamex2.pdf, id=221, page=1, 361.35pt x 325.215pt>
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 1>
+Package pdftex.def Info: fig/gamex2.pdf, page1 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+
+<fig/gamex2.pdf, id=222, page=2, 361.35pt x 325.215pt>
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 2>
+Package pdftex.def Info: fig/gamex2.pdf, page2 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+
+<fig/gamex2.pdf, id=223, page=3, 361.35pt x 325.215pt>
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 3>
+Package pdftex.def Info: fig/gamex2.pdf, page3 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+
+<fig/gamex2.pdf, id=224, page=4, 361.35pt x 325.215pt>
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 4>
+Package pdftex.def Info: fig/gamex2.pdf, page4 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 216.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 216.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [16
+
+ <./fig/gamex.pdf> <./fig/gamex2.pdf>]
+File: fig/gamex.pdf Graphic file (type pdf)
+ <use fig/gamex.pdf, page 1>
+Package pdftex.def Info: fig/gamex.pdf, page1 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 2>
+Package pdftex.def Info: fig/gamex.pdf, page2 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex.pdf Graphic file (type pdf)
+ <use fig/gamex.pdf, page 3>
+Package pdftex.def Info: fig/gamex.pdf, page3 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 4>
+Package pdftex.def Info: fig/gamex.pdf, page4 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+ <use fig/gamex2.pdf, page 1>
+Package pdftex.def Info: fig/gamex2.pdf, page1 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 2>
+Package pdftex.def Info: fig/gamex2.pdf, page2 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+ <use fig/gamex2.pdf, page 3>
+Package pdftex.def Info: fig/gamex2.pdf, page3 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 4>
+Package pdftex.def Info: fig/gamex2.pdf, page4 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 216.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 216.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [17
+
+ <./fig/gamex.pdf> <./fig/gamex2.pdf>]
+File: fig/gamex.pdf Graphic file (type pdf)
+ <use fig/gamex.pdf, page 1>
+Package pdftex.def Info: fig/gamex.pdf, page1 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 2>
+Package pdftex.def Info: fig/gamex.pdf, page2 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex.pdf Graphic file (type pdf)
+ <use fig/gamex.pdf, page 3>
+Package pdftex.def Info: fig/gamex.pdf, page3 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 4>
+Package pdftex.def Info: fig/gamex.pdf, page4 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+ <use fig/gamex2.pdf, page 1>
+Package pdftex.def Info: fig/gamex2.pdf, page1 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 2>
+Package pdftex.def Info: fig/gamex2.pdf, page2 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+ <use fig/gamex2.pdf, page 3>
+Package pdftex.def Info: fig/gamex2.pdf, page3 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 4>
+Package pdftex.def Info: fig/gamex2.pdf, page4 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 216.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 216.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [18
+
+ <./fig/gamex.pdf> <./fig/gamex2.pdf>]
+File: fig/gamex.pdf Graphic file (type pdf)
+ <use fig/gamex.pdf, page 1>
+Package pdftex.def Info: fig/gamex.pdf, page1 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 2>
+Package pdftex.def Info: fig/gamex.pdf, page2 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex.pdf Graphic file (type pdf)
+ <use fig/gamex.pdf, page 3>
+Package pdftex.def Info: fig/gamex.pdf, page3 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex.pdf Graphic file (type pdf)
+
+<use fig/gamex.pdf, page 4>
+Package pdftex.def Info: fig/gamex.pdf, page4 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+ <use fig/gamex2.pdf, page 1>
+Package pdftex.def Info: fig/gamex2.pdf, page1 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 2>
+Package pdftex.def Info: fig/gamex2.pdf, page2 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+ <use fig/gamex2.pdf, page 3>
+Package pdftex.def Info: fig/gamex2.pdf, page3 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/gamex2.pdf Graphic file (type pdf)
+
+<use fig/gamex2.pdf, page 4>
+Package pdftex.def Info: fig/gamex2.pdf, page4 used on input line 216.
+(pdftex.def)             Requested size: 171.14764pt x 154.0321pt.
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 216.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 216.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [19
+
+ <./fig/gamex.pdf> <./fig/gamex2.pdf>]
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 223.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 223.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+
+[20
+
+]
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 228.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 228.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [21
+
+]
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 233.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+
+<use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 233.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [22
+
+]
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 241.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 241.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [23
 
 ]
 File: fig/logo.png Graphic file (type png)
 
 <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 127.
+Package pdftex.def Info: fig/logo.png used on input line 246.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 127.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 246.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [15
+ [24
 
 ]
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 132.
+Package pdftex.def Info: fig/logo.png used on input line 251.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
 
 <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 132.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 251.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [16
+ [25
 
 ]
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 256.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 142.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 256.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [17
+ [26
+
+]
+File: fig/logo.png Graphic file (type png)
+
+<use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 263.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 263.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [27
+
+] (Beck_etal_CERF_2019.bbl)
+File: fig/back_tmp.pdf Graphic file (type pdf)
+
+<use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 273.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [28
 
 ]
 \tf@nav=\write7
@@ -1597,31 +2005,33 @@ Package pdftex.def Info: fig/back_tmp.pdf used on input line 142.
 \tf@snm=\write9
 \openout9 = `Beck_etal_CERF_2019.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
-
-(Beck_etal_CERF_2019.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 275.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 275.
+ (Beck_etal_CERF_2019.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 275.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 275.
 Package rerunfilecheck Info: File `Beck_etal_CERF_2019.out' has not changed.
-(rerunfilecheck)             Checksum: 5276EC5092E9C422876015BE063573A5;92.
+(rerunfilecheck)             Checksum: 51200747882F934395D1FAE6A43F5AC4;225.
  ) 
 Here is how much of TeX's memory you used:
- 29374 strings out of 493323
- 563723 string characters out of 3139064
- 631334 words of memory out of 3000000
- 32338 multiletter control sequences out of 15000+200000
- 569463 words of font info for 85 fonts, out of 3000000 for 9000
+ 29616 strings out of 493323
+ 568919 string characters out of 3139064
+ 635654 words of memory out of 3000000
+ 32525 multiletter control sequences out of 15000+200000
+ 574943 words of font info for 94 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,15n,96p,10422b,586s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,15n,96p,10422b,786s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Beck_etal_CERF_2019.pdf (17 pages, 338447 bytes).
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmtt10.pfb>
+Output written on Beck_etal_CERF_2019.pdf (28 pages, 789505 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
 

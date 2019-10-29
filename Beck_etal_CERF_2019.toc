@@ -1,2 +1,5 @@
 \beamer@sectionintoc {1}{Background}{2}{0}{1}
-\beamer@sectionintoc {2}{References}{17}{0}{2}
+\beamer@sectionintoc {2}{Methods}{7}{0}{2}
+\beamer@sectionintoc {3}{Results}{20}{0}{3}
+\beamer@sectionintoc {4}{Conclusions}{27}{0}{4}
+\beamer@sectionintoc {5}{References}{28}{0}{5}
