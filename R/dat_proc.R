@@ -4,6 +4,11 @@ library(mgcv)
 library(colorspace)
 library(here)
 library(WRTDStidal)
+library(png)
+library(pdftools)
+library(grid)
+library(gridExtra)
+library(gganimate)
 
 pal <- function(x) rev(colorspace::sequential_hcl(x, palette = "PuBuGn"))
 
@@ -333,3 +338,92 @@ pb2
 pb3
 pb4
 dev.off()
+
+
+# animation ---------------------------------------------------------------
+
+data("modssta_chl")
+
+pal <- function(x) rev(colorspace::sequential_hcl(x, palette = "PuBuGn"))
+
+# get predictions to plot
+prdplo <- modssta_chl %>%
+  mutate(prddat = pmap(list(data, modv), function(data, modv){
+    
+    
+    prddat <- data.frame(
+      dec_time = seq(min(data$dec_time), max(data$dec_time), length = 1000)
+    ) %>%
+      mutate(
+        date = date_decimal(dec_time),
+        date = as.Date(date),
+        mo = month(date, label = TRUE),
+        doy = yday(date),
+        yr = year(date)
+      )
+    
+    prd <- predict(modv, newdata = prddat)
+    
+    prddat <- prddat %>% mutate(chl = prd)
+    
+    return(prddat)
+    
+  })) %>% 
+  select(station, modi, prddat) %>% 
+  unnest(prddat)
+
+ylabs <- expression(paste(log[10], ' Chl- ',italic(a),' (',italic('\u03bc'),'g ',L^-1,')'))
+
+toplo <- prdplo %>% 
+  filter(yr >= 1991)
+
+bgcol <- pal(5)[1]
+
+anim <- ggplot(toplo, aes(x = doy, colour = yr)) + 
+  geom_line(aes(y = chl), size = 1) + 
+  theme_bw(base_family = 'serif', base_size = 18) + 
+  theme(
+    legend.position = 'right', 
+    legend.title = element_blank(), 
+    axis.text.x= element_text(size = 8),
+    plot.background = element_rect(fill= bgcol, 
+                                   colour = bgcol),
+    panel.background = element_rect(fill=bgcol, 
+                                    colour = bgcol), 
+    legend.background = element_rect(fill = bgcol, 
+                                     colour = bgcol), 
+    strip.background = element_blank()
+  ) + 
+  scale_colour_continuous_sequential(palette = colpal, rev = T, begin = 0.2) +
+  guides(colour = guide_colourbar(barheight = 20, barwidth = 1)) +
+  facet_grid(modi ~ station) +
+  labs(x = 'Day of year', title ='Year: {frame_time}', y = ylabs) + 
+  transition_time(yr) + 
+  ease_aes('linear')
+
+# save as png
+animate(
+  anim,
+  renderer = file_renderer('fig', prefix = 'yrplo', overwrite = T), 
+  width = 11, height = 6.5, res = 200, units = 'in',
+  device = 'png', 
+  nframes = 90
+)
+
+# convert png to pdf
+fls <- list.files('fig', pattern = '^yrplo.*\\.png', full.names = T)
+for(fl in fls){
+  cat(fl, '\n')
+  tmp <- rasterGrob(readPNG(fl, native = FALSE))
+  pdf(gsub('\\.png', '\\.pdf', fl), width = 11, height = 6.5)
+  grid.arrange(tmp)
+  dev.off()
+}
+
+# combine files in a single pdf
+fls <- list.files('fig', pattern = '^yrplo.*\\.pdf', full.names = T)
+pdftools::pdf_combine(fls, output = 'fig/anitst.pdf')
+
+# clean up
+file.remove(fls)
+file.remove(gsub('\\.pdf', '\\.png', fls))

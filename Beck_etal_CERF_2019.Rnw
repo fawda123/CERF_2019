@@ -254,7 +254,10 @@ Four GAMs were evaluated and compared using standard methods for model compariso
 
 %%%%%%
 \begin{frame}{\textbf{Descriptive results of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-Station 32 example
+\vspace{-0.2in}
+\begin{center}
+\animategraphics[controls,width=\linewidth]{12}{fig/anitst}{}{} %frame rate is 12 per/sec
+\end{center}
 \end{frame}
 
 %%%%%%
@@ -272,10 +275,10 @@ Extension to other response endpoints
 Why do we need this?
 Synthesis of results in a communicable format
 Answer to specific questions
-Understand implications and limitations of different methods
-\end{frame}
 
 %%%%%%
+Understand implications and limitations of different methods
+\end{frame}
 \begin{frame}{\textbf{Shiny interactive web platform} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 Example 1
 \end{frame}
