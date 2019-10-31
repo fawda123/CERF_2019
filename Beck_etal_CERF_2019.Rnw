@@ -98,17 +98,26 @@ writeLines(refs, con = file('refs.bib'))
 \begin{frame}{\textbf{Why do we care about trends?} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \begin{itemize}
 \onslide<1->
-\item Provide information on natural variation of water quality parameters - identify 1st order principles to understand a system  \\~\\
+\item Provide information on natural variation of water quality parameters \\~\\
+\begin{itemize}
+\item What are the 1\textsuperscript{st} order principles that describe a system? \\~\\
+\end{itemize}
 \onslide<2->
-\item Document historical changes in response to management actions - did investments make a difference? \\~\\
+\item Document historical changes in response to management actions \\~\\
+\begin{itemize}
+\item Did investments make a difference? \\~\\
+\end{itemize}
 \onslide<3->
-\item Anticipate future changes with proposed restoration or management - understand the past to predict the future
+\item Anticipate future changes with proposed restoration or management \\~\\
+\begin{itemize}
+\item Can we understand the past to predict the future?
+\end{itemize}
 \end{itemize}
 \end{frame}
 
 %%%%%%
 \begin{frame}{\textbf{Trends vary in space and time} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-\centerline{\emtxt{Observed data represent effects from many processes}}
+\centerline{\emtxt{Observed data represent effects of many processes}}
 \vspace{0.15in}
 \centerline{\includegraphics[width = \textwidth]{fig/ts_ex.pdf}}
 \vspace{0.15in}
@@ -215,12 +224,13 @@ Questions of concern: \\~\\
 \onslide<3->
 \item For each station, chlorophyll was modelled as a function of annual and seasonal changes over time using four model structures {\tiny \cite[baytrends R package]{Murphy19b}}\\~\\
 \begin{itemize}
-\item \texttt{gam0}: chl $\sim$ year + s(doy)
 \onslide<4->
-\item \texttt{gam1}: chl $\sim$ year + s(doy) + s(year)
+\item \texttt{gam0}: chl $\sim$ year + s(doy)
 \onslide<5->
-\item \texttt{gam2}: chl $\sim$ year + s(doy) + s(year) + ti(doy, year)
+\item \texttt{gam1}: chl $\sim$ year + s(doy) + s(year)
 \onslide<6->
+\item \texttt{gam2}: chl $\sim$ year + s(doy) + s(year) + ti(doy, year)
+\onslide<7->
 \item \texttt{gam6}: chl $\sim$ year + s(doy) + s(year, k = large)
 \end{itemize}
 \end{itemize}
@@ -402,8 +412,49 @@ latex(totab, file = '', rowlabel = 'Model', size = 'tiny', rowname = NULL, cgrou
 \end{frame}
 
 %%%%%%
-\begin{frame}{\textbf{Acknowledgments} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\begin{frame}
+Acknowledgments and contact info:\\~\\
+\begin{columns}
+\begin{column}{0.9\textwidth}
+{\footnotesize
+Research staff and employees at the San Francisco Estuary Institute, Delta Regional Monitoring Program, Southern California Coastal Water Research Project, and the Tampa Bay Estuary Program
+}
+\end{column}
+\end{columns}
+\vfill
+\begin{columns}
+\begin{column}{0.6\textwidth}
+\begin{center}
+\hfill
+\includegraphics[width=0.3\linewidth]{fig/sfei1.png}
+\hfill
+\includegraphics[width=0.3\linewidth]{fig/sfei2.png} \\~\\
+\hfill
+\includegraphics[width=0.3\linewidth]{fig/sccwrp_logo.png}
+\hfill
+\includegraphics[width=0.3\linewidth]{fig/tbep_logo.png}
+\end{center}
+\end{column}
+\begin{column}{0.4\textwidth}
+\scriptsize
+\begin{center}
+\href{mailto:mbeck@tbep.org}{mbeck@tbep.org} \\~\\
+Phone (TBEP): (727) 893-2765
+\end{center}
+\end{column}
+\end{columns}
+\vfill
+Links:\\~\\
+\begin{columns}
+\begin{column}{0.9\textwidth}
+\scriptsize
+This presentation: \href{https://github.com/fawda123/CERF_2019}{\url{https://github.com/fawda123/CERF\_2019}}
 
+Shiny app: \href{https://sccwrp.shinyapps.io/sfbaytrends/}{\url{https://sccwrp.shinyapps.io/sfbaytrends/}}
+
+Detailed results: \href{http://fawda123.github.io/SFbaytrends/README}{\url{http://fawda123.github.io/SFbaytrends/README}}
+\end{column}
+\end{columns}
 \end{frame}
 
 \section{References}
