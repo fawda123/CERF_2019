@@ -9,6 +9,7 @@ library(pdftools)
 library(grid)
 library(gridExtra)
 library(gganimate)
+library(ggmap)
 
 pal <- function(x) rev(colorspace::sequential_hcl(x, palette = "PuBuGn"))
 
@@ -237,6 +238,24 @@ pdf('fig/map.pdf', height = 6, width = 5, family = 'serif')
 p1
 dev.off()
 
+
+# map inset 32 ------------------------------------------------------------
+
+p <- pbase + 
+  geom_point(data = filter(locs, Station == 32), aes(x = lon, y = lat), size = 10, colour = 'tomato1') +
+  geom_text(data = locs, aes(x = lon, y = lat, label = Station), size = 5, colour = pal(5)[4],
+            fontface = 'italic') + 
+  theme_void() + 
+  theme(
+    plot.background = element_rect(fill='transparent', 
+                                       colour = NA),
+    panel.background = element_rect(fill='transparent', 
+                                        colour = NA)
+  )
+
+pdf('fig/mapins32.pdf', height = 3, width = 2, family = 'serif')
+p
+dev.off()
 
 # gam examples ------------------------------------------------------------
 

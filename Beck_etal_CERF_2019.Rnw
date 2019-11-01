@@ -77,7 +77,7 @@ writeLines(refs, con = file('refs.bib'))
 \title[Tracking SF Bay Water Quality]{Tracking San Francisco Bay water quality using generalized additive models in an R Shiny framework}
 \author[Beck et al.]{Marcus W. Beck\inst{1} \and Ian Wren\inst{2} \and Rebecca Murphy\inst{3} \and \\ Perry de Valpine\inst{4} \and David Senn\inst{5}}
 
-\institute[TBEP]{$^1$Tampa Bay Estuary Program\\ $^2$San Francisco Baykeeper \\$^3$Cheseapeake Bay Program \\$^4$University of California Berkeley \\$^5$San Francisco Estuary Institute}
+\institute[TBEP]{$^1$Tampa Bay Estuary Program\\ $^2$San Francisco Baykeeper \\$^3$University of Maryland at Cheseapeake Bay Program \\$^4$University of California Berkeley \\$^5$San Francisco Estuary Institute}
 
 \date{Nov. 4, 2019}
 
@@ -220,7 +220,7 @@ Questions of concern: \\~\\
 \onslide<1->
 \item The Chesapeake Bay Program (CBP) has been wrestling with similar issues {\tiny \cite{Beck17,Murphy19}} \\~\\
 \onslide<2->
-\item We applied Generalized Additive Models (GAMs) developed by CBP to characterize long-term trends at nine stations over thirty years in South SF Bay \\~\\
+\item We applied Generalized Additive Models (GAMs) as implemented by CBP to characterize long-term trends at nine stations over thirty years in South SF Bay \\~\\
 \onslide<3->
 \item For each station, chlorophyll was modelled as a function of annual and seasonal changes over time using four model structures {\tiny \cite[baytrends R package]{Murphy19b}}\\~\\
 \begin{itemize}
@@ -238,10 +238,20 @@ Questions of concern: \\~\\
 
 %%%%%%
 \begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+% \begin{columns}
+% \begin{column}{0.7\textwidth}
+% \begin{overprint}
 \only<1>{\texttt{gam0}: chl $\sim$ year + s(doy)}
 \only<2>{\texttt{gam1}: chl $\sim$ year + s(doy) + s(year)}
 \only<3>{\texttt{gam2}: chl $\sim$ year + s(doy) + s(year) + ti(doy, year)}
 \only<4>{\texttt{gam6}: chl $\sim$ year + s(doy) + s(year, k = large)}
+% \end{overprint}
+% \end{column}
+% \begin{column}{0.3\textwidth}
+\onslide<1->\includegraphics[width =0.1\textwidth]{fig/mapins32.pdf}
+\vfill
+% \end{column}
+% \end{columns}
 \begin{columns}
 \begin{column}{0.5\textwidth}
 \begin{figure}
@@ -301,7 +311,7 @@ totab <- perf %>%
   spread(station, AIC)
 
 latex(totab, file = '', rowlabel = 'Model', size = 'tiny', rowname = NULL, cgroup = c('', 'Stations (north to south)'), 
-      n.cgroup = c(1, 9), caption = "GCV summary statistics by station and model")
+      n.cgroup = c(1, 9), caption = "Generalized cross-validation (GCV) summary statistics by station and model")
 @
 
 \onslide<2->
