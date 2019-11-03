@@ -200,20 +200,25 @@ Questions of concern: \\~\\
 
 %%%%%%
 \begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-% \begin{columns}
-% \begin{column}{0.7\textwidth}
-% \begin{overprint}
+% \vspace{-0.1in}
+\vfill
+\begin{columns}
+\begin{column}{0.75\textwidth}
+\begin{figure}
+\raggedright
+\begin{overprint}
 \only<1>{\texttt{gam0}: chl $\sim$ year + s(doy)}
 \only<2>{\texttt{gam1}: chl $\sim$ year + s(doy) + s(year)}
 \only<3>{\texttt{gam2}: chl $\sim$ year + s(doy) + s(year) + ti(doy, year)}
 \only<4>{\texttt{gam6}: chl $\sim$ year + s(doy) + s(year, k = large)}
-% \end{overprint}
-% \end{column}
-% \begin{column}{0.3\textwidth}
-\onslide<1->\includegraphics[width =0.1\textwidth]{fig/mapins32.pdf}
-\vfill
-% \end{column}
-% \end{columns}
+\end{overprint}
+\end{figure}
+\end{column}
+\begin{column}{0.1\textwidth}
+\onslide<1->\includegraphics[width =\textwidth]{fig/mapins32.pdf}
+\end{column}
+\end{columns}
+\vspace{-0.1in}
 \begin{columns}
 \begin{column}{0.5\textwidth}
 \begin{figure}
@@ -236,6 +241,7 @@ Questions of concern: \\~\\
 \end{figure}
 \end{column}
 \end{columns}
+\vfill
 \end{frame}
 
 \section{Results}

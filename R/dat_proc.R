@@ -1,3 +1,5 @@
+# setup -------------------------------------------------------------------
+
 library(tidyverse)
 library(lubridate)
 library(mgcv)
@@ -289,7 +291,7 @@ rawchl <- stat32res$data[[1]] %>%
     day = day(date)
   )
 
-ylabs <- expression(paste(log[10], ' Chl- ',italic(a),' (',italic('\u03bc'),'g ',L^-1,')'))
+ylabs <- expression(paste(log[10], ' Chl-',italic(a),' (',italic('\u03bc'),'g ',L^-1,')'))
 
 mods <- prdplo %>% 
   pull(modi) %>% 
@@ -312,12 +314,12 @@ for(i in seq_along(mods)){
     scale_y_continuous(limits = pblim) +
     scale_x_date(date_breaks = '5 years', date_labels = '%Y') + 
     theme(
-      axis.title.x = element_blank(),
       plot.background = element_rect(fill='transparent', 
                                      colour = NA),
       panel.background = element_rect(fill='transparent', 
                                       colour = NA)
-    )
+    ) + 
+    labs(x = 'Year')
   
   pb <- ggplot(toplo, aes(x = doy, group = factor(yr), colour = yr)) + 
     geom_line(aes(y = chl)) + 
@@ -326,7 +328,6 @@ for(i in seq_along(mods)){
       legend.position = 'right', 
       legend.title = element_blank(), 
       axis.title.y = element_blank(),
-      axis.title.x = element_blank(),
       plot.background = element_rect(fill='transparent', 
                                      colour = NA),
       panel.background = element_rect(fill='transparent', 
@@ -344,14 +345,14 @@ for(i in seq_along(mods)){
   
 }
 
-pdf(here::here('fig', 'gamex.pdf'), family = 'serif', height = 4.5, width = 5)
+pdf(here::here('fig', 'gamex.pdf'), family = 'serif', height = 5, width = 5)
 pa1
 pa2 
 pa3
 pa4
 dev.off()
 
-pdf(here::here('fig', 'gamex2.pdf'), family = 'serif', height = 4.5, width = 5)
+pdf(here::here('fig', 'gamex2.pdf'), family = 'serif', height = 5, width = 5)
 pb1 
 pb2
 pb3
