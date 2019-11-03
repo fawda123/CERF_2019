@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.8)  2 NOV 2019 22:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.8)  2 NOV 2019 23:34
 entering extended mode
 **./Beck_etal_CERF_2019.tex
 (Beck_etal_CERF_2019.tex
@@ -2014,638 +2014,639 @@ Package pdftex.def Info: fig/back_tmp.pdf used on input line 245.
  [26
 
  <./fig/gamex.pdf> <./fig/gamex2.pdf>]
-<fig/anidoy.pdf, id=352, page=1, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+<fig/anidoy1.pdf, id=352, page=1, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 1>
-Package pdftex.def Info: fig/anidoy.pdf, page1 used on input line 255.
+<use fig/anidoy1.pdf, page 1>
+Package pdftex.def Info: fig/anidoy1.pdf, page1 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr0>
-<fig/anidoy.pdf, id=363, page=2, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr0>
+<fig/anidoy1.pdf, id=363, page=2, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 2>
-Package pdftex.def Info: fig/anidoy.pdf, page2 used on input line 255.
+<use fig/anidoy1.pdf, page 2>
+Package pdftex.def Info: fig/anidoy1.pdf, page2 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr1>
-<fig/anidoy.pdf, id=374, page=3, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr1>
+<fig/anidoy1.pdf, id=374, page=3, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 3>
-Package pdftex.def Info: fig/anidoy.pdf, page3 used on input line 255.
+<use fig/anidoy1.pdf, page 3>
+Package pdftex.def Info: fig/anidoy1.pdf, page3 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr2>
-<fig/anidoy.pdf, id=385, page=4, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr2>
+<fig/anidoy1.pdf, id=385, page=4, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 4>
-Package pdftex.def Info: fig/anidoy.pdf, page4 used on input line 255.
+<use fig/anidoy1.pdf, page 4>
+Package pdftex.def Info: fig/anidoy1.pdf, page4 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr3>
-<fig/anidoy.pdf, id=396, page=5, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr3>
+<fig/anidoy1.pdf, id=396, page=5, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 5>
-Package pdftex.def Info: fig/anidoy.pdf, page5 used on input line 255.
+<use fig/anidoy1.pdf, page 5>
+Package pdftex.def Info: fig/anidoy1.pdf, page5 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr4>
-<fig/anidoy.pdf, id=407, page=6, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr4>
+<fig/anidoy1.pdf, id=407, page=6, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 6>
-Package pdftex.def Info: fig/anidoy.pdf, page6 used on input line 255.
+<use fig/anidoy1.pdf, page 6>
+Package pdftex.def Info: fig/anidoy1.pdf, page6 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr5>
-<fig/anidoy.pdf, id=418, page=7, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr5>
+<fig/anidoy1.pdf, id=418, page=7, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 7>
-Package pdftex.def Info: fig/anidoy.pdf, page7 used on input line 255.
+<use fig/anidoy1.pdf, page 7>
+Package pdftex.def Info: fig/anidoy1.pdf, page7 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr6>
-<fig/anidoy.pdf, id=429, page=8, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr6>
+<fig/anidoy1.pdf, id=429, page=8, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 8>
-Package pdftex.def Info: fig/anidoy.pdf, page8 used on input line 255.
+<use fig/anidoy1.pdf, page 8>
+Package pdftex.def Info: fig/anidoy1.pdf, page8 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr7>
-<fig/anidoy.pdf, id=440, page=9, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr7>
+<fig/anidoy1.pdf, id=440, page=9, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 9>
-Package pdftex.def Info: fig/anidoy.pdf, page9 used on input line 255.
+<use fig/anidoy1.pdf, page 9>
+Package pdftex.def Info: fig/anidoy1.pdf, page9 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr8>
-<fig/anidoy.pdf, id=451, page=10, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr8>
+<fig/anidoy1.pdf, id=451, page=10, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 10>
-Package pdftex.def Info: fig/anidoy.pdf, page10 used on input line 255.
+<use fig/anidoy1.pdf, page 10>
+Package pdftex.def Info: fig/anidoy1.pdf, page10 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr9>
-<fig/anidoy.pdf, id=462, page=11, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr9>
+<fig/anidoy1.pdf, id=462, page=11, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 11>
-Package pdftex.def Info: fig/anidoy.pdf, page11 used on input line 255.
+<use fig/anidoy1.pdf, page 11>
+Package pdftex.def Info: fig/anidoy1.pdf, page11 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr10>
-<fig/anidoy.pdf, id=473, page=12, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr10>
+<fig/anidoy1.pdf, id=473, page=12, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 12>
-Package pdftex.def Info: fig/anidoy.pdf, page12 used on input line 255.
+<use fig/anidoy1.pdf, page 12>
+Package pdftex.def Info: fig/anidoy1.pdf, page12 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr11>
-<fig/anidoy.pdf, id=484, page=13, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr11>
+<fig/anidoy1.pdf, id=484, page=13, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 13>
-Package pdftex.def Info: fig/anidoy.pdf, page13 used on input line 255.
+<use fig/anidoy1.pdf, page 13>
+Package pdftex.def Info: fig/anidoy1.pdf, page13 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr12>
-<fig/anidoy.pdf, id=495, page=14, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr12>
+<fig/anidoy1.pdf, id=495, page=14, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 14>
-Package pdftex.def Info: fig/anidoy.pdf, page14 used on input line 255.
+<use fig/anidoy1.pdf, page 14>
+Package pdftex.def Info: fig/anidoy1.pdf, page14 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr13>
-<fig/anidoy.pdf, id=506, page=15, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr13>
+<fig/anidoy1.pdf, id=506, page=15, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 15>
-Package pdftex.def Info: fig/anidoy.pdf, page15 used on input line 255.
+<use fig/anidoy1.pdf, page 15>
+Package pdftex.def Info: fig/anidoy1.pdf, page15 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr14>
-<fig/anidoy.pdf, id=517, page=16, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr14>
+<fig/anidoy1.pdf, id=517, page=16, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 16>
-Package pdftex.def Info: fig/anidoy.pdf, page16 used on input line 255.
+<use fig/anidoy1.pdf, page 16>
+Package pdftex.def Info: fig/anidoy1.pdf, page16 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr15>
-<fig/anidoy.pdf, id=528, page=17, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr15>
+<fig/anidoy1.pdf, id=528, page=17, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 17>
-Package pdftex.def Info: fig/anidoy.pdf, page17 used on input line 255.
+<use fig/anidoy1.pdf, page 17>
+Package pdftex.def Info: fig/anidoy1.pdf, page17 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr16>
-<fig/anidoy.pdf, id=539, page=18, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr16>
+<fig/anidoy1.pdf, id=539, page=18, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 18>
-Package pdftex.def Info: fig/anidoy.pdf, page18 used on input line 255.
+<use fig/anidoy1.pdf, page 18>
+Package pdftex.def Info: fig/anidoy1.pdf, page18 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr17>
-<fig/anidoy.pdf, id=550, page=19, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr17>
+<fig/anidoy1.pdf, id=550, page=19, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 19>
-Package pdftex.def Info: fig/anidoy.pdf, page19 used on input line 255.
+<use fig/anidoy1.pdf, page 19>
+Package pdftex.def Info: fig/anidoy1.pdf, page19 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr18>
-<fig/anidoy.pdf, id=561, page=20, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr18>
+<fig/anidoy1.pdf, id=561, page=20, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 20>
-Package pdftex.def Info: fig/anidoy.pdf, page20 used on input line 255.
+<use fig/anidoy1.pdf, page 20>
+Package pdftex.def Info: fig/anidoy1.pdf, page20 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr19>
-<fig/anidoy.pdf, id=572, page=21, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr19>
+<fig/anidoy1.pdf, id=572, page=21, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 21>
-Package pdftex.def Info: fig/anidoy.pdf, page21 used on input line 255.
+<use fig/anidoy1.pdf, page 21>
+Package pdftex.def Info: fig/anidoy1.pdf, page21 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr20>
-<fig/anidoy.pdf, id=583, page=22, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr20>
+<fig/anidoy1.pdf, id=583, page=22, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 22>
-Package pdftex.def Info: fig/anidoy.pdf, page22 used on input line 255.
+<use fig/anidoy1.pdf, page 22>
+Package pdftex.def Info: fig/anidoy1.pdf, page22 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr21>
-<fig/anidoy.pdf, id=594, page=23, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr21>
+<fig/anidoy1.pdf, id=594, page=23, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 23>
-Package pdftex.def Info: fig/anidoy.pdf, page23 used on input line 255.
+<use fig/anidoy1.pdf, page 23>
+Package pdftex.def Info: fig/anidoy1.pdf, page23 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr22>
-<fig/anidoy.pdf, id=605, page=24, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr22>
+<fig/anidoy1.pdf, id=605, page=24, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 24>
-Package pdftex.def Info: fig/anidoy.pdf, page24 used on input line 255.
+<use fig/anidoy1.pdf, page 24>
+Package pdftex.def Info: fig/anidoy1.pdf, page24 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr23>
-<fig/anidoy.pdf, id=616, page=25, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr23>
+<fig/anidoy1.pdf, id=616, page=25, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 25>
-Package pdftex.def Info: fig/anidoy.pdf, page25 used on input line 255.
+<use fig/anidoy1.pdf, page 25>
+Package pdftex.def Info: fig/anidoy1.pdf, page25 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr24>
-<fig/anidoy.pdf, id=627, page=26, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr24>
+<fig/anidoy1.pdf, id=627, page=26, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 26>
-Package pdftex.def Info: fig/anidoy.pdf, page26 used on input line 255.
+<use fig/anidoy1.pdf, page 26>
+Package pdftex.def Info: fig/anidoy1.pdf, page26 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr25>
-<fig/anidoy.pdf, id=638, page=27, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr25>
+<fig/anidoy1.pdf, id=638, page=27, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 27>
-Package pdftex.def Info: fig/anidoy.pdf, page27 used on input line 255.
+<use fig/anidoy1.pdf, page 27>
+Package pdftex.def Info: fig/anidoy1.pdf, page27 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr26>
-<fig/anidoy.pdf, id=649, page=28, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr26>
+<fig/anidoy1.pdf, id=649, page=28, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 28>
-Package pdftex.def Info: fig/anidoy.pdf, page28 used on input line 255.
+<use fig/anidoy1.pdf, page 28>
+Package pdftex.def Info: fig/anidoy1.pdf, page28 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr27>
-<fig/anidoy.pdf, id=660, page=29, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr27>
+<fig/anidoy1.pdf, id=660, page=29, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 29>
-Package pdftex.def Info: fig/anidoy.pdf, page29 used on input line 255.
+<use fig/anidoy1.pdf, page 29>
+Package pdftex.def Info: fig/anidoy1.pdf, page29 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr28>
-<fig/anidoy.pdf, id=671, page=30, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr28>
+<fig/anidoy1.pdf, id=671, page=30, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 30>
-Package pdftex.def Info: fig/anidoy.pdf, page30 used on input line 255.
+<use fig/anidoy1.pdf, page 30>
+Package pdftex.def Info: fig/anidoy1.pdf, page30 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr29>
-<fig/anidoy.pdf, id=682, page=31, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr29>
+<fig/anidoy1.pdf, id=682, page=31, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 31>
-Package pdftex.def Info: fig/anidoy.pdf, page31 used on input line 255.
+<use fig/anidoy1.pdf, page 31>
+Package pdftex.def Info: fig/anidoy1.pdf, page31 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr30>
-<fig/anidoy.pdf, id=693, page=32, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr30>
+<fig/anidoy1.pdf, id=693, page=32, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 32>
-Package pdftex.def Info: fig/anidoy.pdf, page32 used on input line 255.
+<use fig/anidoy1.pdf, page 32>
+Package pdftex.def Info: fig/anidoy1.pdf, page32 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr31>
-<fig/anidoy.pdf, id=704, page=33, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr31>
+<fig/anidoy1.pdf, id=704, page=33, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 33>
-Package pdftex.def Info: fig/anidoy.pdf, page33 used on input line 255.
+<use fig/anidoy1.pdf, page 33>
+Package pdftex.def Info: fig/anidoy1.pdf, page33 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr32>
-<fig/anidoy.pdf, id=715, page=34, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr32>
+<fig/anidoy1.pdf, id=715, page=34, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 34>
-Package pdftex.def Info: fig/anidoy.pdf, page34 used on input line 255.
+<use fig/anidoy1.pdf, page 34>
+Package pdftex.def Info: fig/anidoy1.pdf, page34 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr33>
-<fig/anidoy.pdf, id=726, page=35, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr33>
+<fig/anidoy1.pdf, id=726, page=35, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 35>
-Package pdftex.def Info: fig/anidoy.pdf, page35 used on input line 255.
+<use fig/anidoy1.pdf, page 35>
+Package pdftex.def Info: fig/anidoy1.pdf, page35 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr34>
-<fig/anidoy.pdf, id=737, page=36, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr34>
+<fig/anidoy1.pdf, id=737, page=36, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 36>
-Package pdftex.def Info: fig/anidoy.pdf, page36 used on input line 255.
+<use fig/anidoy1.pdf, page 36>
+Package pdftex.def Info: fig/anidoy1.pdf, page36 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr35>
-<fig/anidoy.pdf, id=748, page=37, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr35>
+<fig/anidoy1.pdf, id=748, page=37, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 37>
-Package pdftex.def Info: fig/anidoy.pdf, page37 used on input line 255.
+<use fig/anidoy1.pdf, page 37>
+Package pdftex.def Info: fig/anidoy1.pdf, page37 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr36>
-<fig/anidoy.pdf, id=759, page=38, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr36>
+<fig/anidoy1.pdf, id=759, page=38, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 38>
-Package pdftex.def Info: fig/anidoy.pdf, page38 used on input line 255.
+<use fig/anidoy1.pdf, page 38>
+Package pdftex.def Info: fig/anidoy1.pdf, page38 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr37>
-<fig/anidoy.pdf, id=770, page=39, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr37>
+<fig/anidoy1.pdf, id=770, page=39, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 39>
-Package pdftex.def Info: fig/anidoy.pdf, page39 used on input line 255.
+<use fig/anidoy1.pdf, page 39>
+Package pdftex.def Info: fig/anidoy1.pdf, page39 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr38>
-<fig/anidoy.pdf, id=781, page=40, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr38>
+<fig/anidoy1.pdf, id=781, page=40, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 40>
-Package pdftex.def Info: fig/anidoy.pdf, page40 used on input line 255.
+<use fig/anidoy1.pdf, page 40>
+Package pdftex.def Info: fig/anidoy1.pdf, page40 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr39>
-<fig/anidoy.pdf, id=792, page=41, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr39>
+<fig/anidoy1.pdf, id=792, page=41, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 41>
-Package pdftex.def Info: fig/anidoy.pdf, page41 used on input line 255.
+<use fig/anidoy1.pdf, page 41>
+Package pdftex.def Info: fig/anidoy1.pdf, page41 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr40>
-<fig/anidoy.pdf, id=803, page=42, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr40>
+<fig/anidoy1.pdf, id=803, page=42, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 42>
-Package pdftex.def Info: fig/anidoy.pdf, page42 used on input line 255.
+<use fig/anidoy1.pdf, page 42>
+Package pdftex.def Info: fig/anidoy1.pdf, page42 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr41>
-<fig/anidoy.pdf, id=814, page=43, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr41>
+<fig/anidoy1.pdf, id=814, page=43, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 43>
-Package pdftex.def Info: fig/anidoy.pdf, page43 used on input line 255.
+<use fig/anidoy1.pdf, page 43>
+Package pdftex.def Info: fig/anidoy1.pdf, page43 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr42>
-<fig/anidoy.pdf, id=825, page=44, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr42>
+<fig/anidoy1.pdf, id=825, page=44, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 44>
-Package pdftex.def Info: fig/anidoy.pdf, page44 used on input line 255.
+<use fig/anidoy1.pdf, page 44>
+Package pdftex.def Info: fig/anidoy1.pdf, page44 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr43>
-<fig/anidoy.pdf, id=836, page=45, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr43>
+<fig/anidoy1.pdf, id=836, page=45, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 45>
-Package pdftex.def Info: fig/anidoy.pdf, page45 used on input line 255.
+<use fig/anidoy1.pdf, page 45>
+Package pdftex.def Info: fig/anidoy1.pdf, page45 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr44>
-<fig/anidoy.pdf, id=847, page=46, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr44>
+<fig/anidoy1.pdf, id=847, page=46, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 46>
-Package pdftex.def Info: fig/anidoy.pdf, page46 used on input line 255.
+<use fig/anidoy1.pdf, page 46>
+Package pdftex.def Info: fig/anidoy1.pdf, page46 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr45>
-<fig/anidoy.pdf, id=858, page=47, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr45>
+<fig/anidoy1.pdf, id=858, page=47, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 47>
-Package pdftex.def Info: fig/anidoy.pdf, page47 used on input line 255.
+<use fig/anidoy1.pdf, page 47>
+Package pdftex.def Info: fig/anidoy1.pdf, page47 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr46>
-<fig/anidoy.pdf, id=869, page=48, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr46>
+<fig/anidoy1.pdf, id=869, page=48, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 48>
-Package pdftex.def Info: fig/anidoy.pdf, page48 used on input line 255.
+<use fig/anidoy1.pdf, page 48>
+Package pdftex.def Info: fig/anidoy1.pdf, page48 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr47>
-<fig/anidoy.pdf, id=880, page=49, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr47>
+<fig/anidoy1.pdf, id=880, page=49, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 49>
-Package pdftex.def Info: fig/anidoy.pdf, page49 used on input line 255.
+<use fig/anidoy1.pdf, page 49>
+Package pdftex.def Info: fig/anidoy1.pdf, page49 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr48>
-<fig/anidoy.pdf, id=891, page=50, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr48>
+<fig/anidoy1.pdf, id=891, page=50, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 50>
-Package pdftex.def Info: fig/anidoy.pdf, page50 used on input line 255.
+<use fig/anidoy1.pdf, page 50>
+Package pdftex.def Info: fig/anidoy1.pdf, page50 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr49>
-<fig/anidoy.pdf, id=902, page=51, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr49>
+<fig/anidoy1.pdf, id=902, page=51, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 51>
-Package pdftex.def Info: fig/anidoy.pdf, page51 used on input line 255.
+<use fig/anidoy1.pdf, page 51>
+Package pdftex.def Info: fig/anidoy1.pdf, page51 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr50>
-<fig/anidoy.pdf, id=913, page=52, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr50>
+<fig/anidoy1.pdf, id=913, page=52, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 52>
-Package pdftex.def Info: fig/anidoy.pdf, page52 used on input line 255.
+<use fig/anidoy1.pdf, page 52>
+Package pdftex.def Info: fig/anidoy1.pdf, page52 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr51>
-<fig/anidoy.pdf, id=924, page=53, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr51>
+<fig/anidoy1.pdf, id=924, page=53, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 53>
-Package pdftex.def Info: fig/anidoy.pdf, page53 used on input line 255.
+<use fig/anidoy1.pdf, page 53>
+Package pdftex.def Info: fig/anidoy1.pdf, page53 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr52>
-<fig/anidoy.pdf, id=935, page=54, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr52>
+<fig/anidoy1.pdf, id=935, page=54, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 54>
-Package pdftex.def Info: fig/anidoy.pdf, page54 used on input line 255.
+<use fig/anidoy1.pdf, page 54>
+Package pdftex.def Info: fig/anidoy1.pdf, page54 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr53>
-<fig/anidoy.pdf, id=946, page=55, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr53>
+<fig/anidoy1.pdf, id=946, page=55, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 55>
-Package pdftex.def Info: fig/anidoy.pdf, page55 used on input line 255.
+<use fig/anidoy1.pdf, page 55>
+Package pdftex.def Info: fig/anidoy1.pdf, page55 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr54>
-<fig/anidoy.pdf, id=957, page=56, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr54>
+<fig/anidoy1.pdf, id=957, page=56, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 56>
-Package pdftex.def Info: fig/anidoy.pdf, page56 used on input line 255.
+<use fig/anidoy1.pdf, page 56>
+Package pdftex.def Info: fig/anidoy1.pdf, page56 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr55>
-<fig/anidoy.pdf, id=968, page=57, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr55>
+<fig/anidoy1.pdf, id=968, page=57, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 57>
-Package pdftex.def Info: fig/anidoy.pdf, page57 used on input line 255.
+<use fig/anidoy1.pdf, page 57>
+Package pdftex.def Info: fig/anidoy1.pdf, page57 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr56>
-<fig/anidoy.pdf, id=979, page=58, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr56>
+<fig/anidoy1.pdf, id=979, page=58, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 58>
-Package pdftex.def Info: fig/anidoy.pdf, page58 used on input line 255.
+<use fig/anidoy1.pdf, page 58>
+Package pdftex.def Info: fig/anidoy1.pdf, page58 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr57>
-<fig/anidoy.pdf, id=990, page=59, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr57>
+<fig/anidoy1.pdf, id=990, page=59, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 59>
-Package pdftex.def Info: fig/anidoy.pdf, page59 used on input line 255.
+<use fig/anidoy1.pdf, page 59>
+Package pdftex.def Info: fig/anidoy1.pdf, page59 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr58>
-<fig/anidoy.pdf, id=1001, page=60, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr58>
+<fig/anidoy1.pdf, id=1001, page=60, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 60>
-Package pdftex.def Info: fig/anidoy.pdf, page60 used on input line 255.
+<use fig/anidoy1.pdf, page 60>
+Package pdftex.def Info: fig/anidoy1.pdf, page60 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr59>
-<fig/anidoy.pdf, id=1012, page=61, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr59>
+<fig/anidoy1.pdf, id=1012, page=61, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 61>
-Package pdftex.def Info: fig/anidoy.pdf, page61 used on input line 255.
+<use fig/anidoy1.pdf, page 61>
+Package pdftex.def Info: fig/anidoy1.pdf, page61 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr60>
-<fig/anidoy.pdf, id=1023, page=62, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr60>
+<fig/anidoy1.pdf, id=1023, page=62, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 62>
-Package pdftex.def Info: fig/anidoy.pdf, page62 used on input line 255.
+<use fig/anidoy1.pdf, page 62>
+Package pdftex.def Info: fig/anidoy1.pdf, page62 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr61>
-<fig/anidoy.pdf, id=1034, page=63, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr61>
+<fig/anidoy1.pdf, id=1034, page=63, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 63>
-Package pdftex.def Info: fig/anidoy.pdf, page63 used on input line 255.
+<use fig/anidoy1.pdf, page 63>
+Package pdftex.def Info: fig/anidoy1.pdf, page63 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr62>
-<fig/anidoy.pdf, id=1045, page=64, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr62>
+<fig/anidoy1.pdf, id=1045, page=64, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 64>
-Package pdftex.def Info: fig/anidoy.pdf, page64 used on input line 255.
+<use fig/anidoy1.pdf, page 64>
+Package pdftex.def Info: fig/anidoy1.pdf, page64 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr63>
-<fig/anidoy.pdf, id=1056, page=65, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr63>
+<fig/anidoy1.pdf, id=1056, page=65, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 65>
-Package pdftex.def Info: fig/anidoy.pdf, page65 used on input line 255.
+<use fig/anidoy1.pdf, page 65>
+Package pdftex.def Info: fig/anidoy1.pdf, page65 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr64>
-<fig/anidoy.pdf, id=1067, page=66, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr64>
+<fig/anidoy1.pdf, id=1067, page=66, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 66>
-Package pdftex.def Info: fig/anidoy.pdf, page66 used on input line 255.
+<use fig/anidoy1.pdf, page 66>
+Package pdftex.def Info: fig/anidoy1.pdf, page66 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr65>
-<fig/anidoy.pdf, id=1078, page=67, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr65>
+<fig/anidoy1.pdf, id=1078, page=67, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 67>
-Package pdftex.def Info: fig/anidoy.pdf, page67 used on input line 255.
+<use fig/anidoy1.pdf, page 67>
+Package pdftex.def Info: fig/anidoy1.pdf, page67 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr66>
-<fig/anidoy.pdf, id=1089, page=68, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr66>
+<fig/anidoy1.pdf, id=1089, page=68, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 68>
-Package pdftex.def Info: fig/anidoy.pdf, page68 used on input line 255.
+<use fig/anidoy1.pdf, page 68>
+Package pdftex.def Info: fig/anidoy1.pdf, page68 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr67>
-<fig/anidoy.pdf, id=1100, page=69, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr67>
+<fig/anidoy1.pdf, id=1100, page=69, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 69>
-Package pdftex.def Info: fig/anidoy.pdf, page69 used on input line 255.
+<use fig/anidoy1.pdf, page 69>
+Package pdftex.def Info: fig/anidoy1.pdf, page69 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr68>
-<fig/anidoy.pdf, id=1111, page=70, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr68>
+<fig/anidoy1.pdf, id=1111, page=70, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 70>
-Package pdftex.def Info: fig/anidoy.pdf, page70 used on input line 255.
+<use fig/anidoy1.pdf, page 70>
+Package pdftex.def Info: fig/anidoy1.pdf, page70 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr69>
-<fig/anidoy.pdf, id=1122, page=71, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr69>
+<fig/anidoy1.pdf, id=1122, page=71, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 71>
-Package pdftex.def Info: fig/anidoy.pdf, page71 used on input line 255.
+<use fig/anidoy1.pdf, page 71>
+Package pdftex.def Info: fig/anidoy1.pdf, page71 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr70>
-<fig/anidoy.pdf, id=1133, page=72, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr70>
+<fig/anidoy1.pdf, id=1133, page=72, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 72>
-Package pdftex.def Info: fig/anidoy.pdf, page72 used on input line 255.
+<use fig/anidoy1.pdf, page 72>
+Package pdftex.def Info: fig/anidoy1.pdf, page72 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr71>
-<fig/anidoy.pdf, id=1144, page=73, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr71>
+<fig/anidoy1.pdf, id=1144, page=73, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 73>
-Package pdftex.def Info: fig/anidoy.pdf, page73 used on input line 255.
+<use fig/anidoy1.pdf, page 73>
+Package pdftex.def Info: fig/anidoy1.pdf, page73 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr72>
-<fig/anidoy.pdf, id=1155, page=74, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr72>
+<fig/anidoy1.pdf, id=1155, page=74, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 74>
-Package pdftex.def Info: fig/anidoy.pdf, page74 used on input line 255.
+<use fig/anidoy1.pdf, page 74>
+Package pdftex.def Info: fig/anidoy1.pdf, page74 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr73>
-<fig/anidoy.pdf, id=1166, page=75, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr73>
+<fig/anidoy1.pdf, id=1166, page=75, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 75>
-Package pdftex.def Info: fig/anidoy.pdf, page75 used on input line 255.
+<use fig/anidoy1.pdf, page 75>
+Package pdftex.def Info: fig/anidoy1.pdf, page75 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr74>
-<fig/anidoy.pdf, id=1177, page=76, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr74>
+<fig/anidoy1.pdf, id=1177, page=76, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 76>
-Package pdftex.def Info: fig/anidoy.pdf, page76 used on input line 255.
+<use fig/anidoy1.pdf, page 76>
+Package pdftex.def Info: fig/anidoy1.pdf, page76 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr75>
-<fig/anidoy.pdf, id=1188, page=77, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr75>
+<fig/anidoy1.pdf, id=1188, page=77, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 77>
-Package pdftex.def Info: fig/anidoy.pdf, page77 used on input line 255.
+<use fig/anidoy1.pdf, page 77>
+Package pdftex.def Info: fig/anidoy1.pdf, page77 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr76>
-<fig/anidoy.pdf, id=1199, page=78, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr76>
+<fig/anidoy1.pdf, id=1199, page=78, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 78>
-Package pdftex.def Info: fig/anidoy.pdf, page78 used on input line 255.
+<use fig/anidoy1.pdf, page 78>
+Package pdftex.def Info: fig/anidoy1.pdf, page78 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr77>
-<fig/anidoy.pdf, id=1210, page=79, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr77>
+<fig/anidoy1.pdf, id=1210, page=79, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 79>
-Package pdftex.def Info: fig/anidoy.pdf, page79 used on input line 255.
+<use fig/anidoy1.pdf, page 79>
+Package pdftex.def Info: fig/anidoy1.pdf, page79 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr78>
-<fig/anidoy.pdf, id=1221, page=80, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr78>
+<fig/anidoy1.pdf, id=1221, page=80, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 80>
-Package pdftex.def Info: fig/anidoy.pdf, page80 used on input line 255.
+<use fig/anidoy1.pdf, page 80>
+Package pdftex.def Info: fig/anidoy1.pdf, page80 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr79>
-<fig/anidoy.pdf, id=1232, page=81, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr79>
+<fig/anidoy1.pdf, id=1232, page=81, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 81>
-Package pdftex.def Info: fig/anidoy.pdf, page81 used on input line 255.
+<use fig/anidoy1.pdf, page 81>
+Package pdftex.def Info: fig/anidoy1.pdf, page81 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr80>
-<fig/anidoy.pdf, id=1243, page=82, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr80>
+<fig/anidoy1.pdf, id=1243, page=82, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 82>
-Package pdftex.def Info: fig/anidoy.pdf, page82 used on input line 255.
+<use fig/anidoy1.pdf, page 82>
+Package pdftex.def Info: fig/anidoy1.pdf, page82 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr81>
-<fig/anidoy.pdf, id=1254, page=83, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr81>
+<fig/anidoy1.pdf, id=1254, page=83, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 83>
-Package pdftex.def Info: fig/anidoy.pdf, page83 used on input line 255.
+<use fig/anidoy1.pdf, page 83>
+Package pdftex.def Info: fig/anidoy1.pdf, page83 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr82>
-<fig/anidoy.pdf, id=1265, page=84, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr82>
+<fig/anidoy1.pdf, id=1265, page=84, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 84>
-Package pdftex.def Info: fig/anidoy.pdf, page84 used on input line 255.
+<use fig/anidoy1.pdf, page 84>
+Package pdftex.def Info: fig/anidoy1.pdf, page84 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr83>
-<fig/anidoy.pdf, id=1276, page=85, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr83>
+<fig/anidoy1.pdf, id=1276, page=85, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 85>
-Package pdftex.def Info: fig/anidoy.pdf, page85 used on input line 255.
+<use fig/anidoy1.pdf, page 85>
+Package pdftex.def Info: fig/anidoy1.pdf, page85 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr84>
-<fig/anidoy.pdf, id=1287, page=86, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr84>
+<fig/anidoy1.pdf, id=1287, page=86, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 86>
-Package pdftex.def Info: fig/anidoy.pdf, page86 used on input line 255.
+<use fig/anidoy1.pdf, page 86>
+Package pdftex.def Info: fig/anidoy1.pdf, page86 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr85>
-<fig/anidoy.pdf, id=1298, page=87, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr85>
+<fig/anidoy1.pdf, id=1298, page=87, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 87>
-Package pdftex.def Info: fig/anidoy.pdf, page87 used on input line 255.
+<use fig/anidoy1.pdf, page 87>
+Package pdftex.def Info: fig/anidoy1.pdf, page87 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr86>
-<fig/anidoy.pdf, id=1309, page=88, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr86>
+<fig/anidoy1.pdf, id=1309, page=88, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 88>
-Package pdftex.def Info: fig/anidoy.pdf, page88 used on input line 255.
+<use fig/anidoy1.pdf, page 88>
+Package pdftex.def Info: fig/anidoy1.pdf, page88 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr87>
-<fig/anidoy.pdf, id=1320, page=89, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr87>
+<fig/anidoy1.pdf, id=1320, page=89, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 89>
-Package pdftex.def Info: fig/anidoy.pdf, page89 used on input line 255.
+<use fig/anidoy1.pdf, page 89>
+Package pdftex.def Info: fig/anidoy1.pdf, page89 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr88>
-<fig/anidoy.pdf, id=1331, page=90, 794.97pt x 469.755pt>
-File: fig/anidoy.pdf Graphic file (type pdf)
+ <./fig/anidoy1.pdf> <a0,fr88>
+<fig/anidoy1.pdf, id=1331, page=90, 794.97pt x 469.755pt>
+File: fig/anidoy1.pdf Graphic file (type pdf)
 
-<use fig/anidoy.pdf, page 90>
-Package pdftex.def Info: fig/anidoy.pdf, page90 used on input line 255.
+<use fig/anidoy1.pdf, page 90>
+Package pdftex.def Info: fig/anidoy1.pdf, page90 used on input line 255.
 (pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
- <./fig/anidoy.pdf> <a0,fr89>
+ <./fig/anidoy1.pdf> <a0,fr89>
 File: fig/logo.png Graphic file (type png)
- <use fig/logo.png>
+
+<use fig/logo.png>
 Package pdftex.def Info: fig/logo.png used on input line 255.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 
@@ -2658,11 +2659,11 @@ Package pdftex.def Info: fig/back_tmp.pdf used on input line 255.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
  [27
 
-] <fig/alldoy.pdf, id=1366, 794.97pt x 469.755pt>
-File: fig/alldoy.pdf Graphic file (type pdf)
+] <fig/alldoy1.pdf, id=1366, 794.97pt x 469.755pt>
+File: fig/alldoy1.pdf Graphic file (type pdf)
 
-<use fig/alldoy.pdf>
-Package pdftex.def Info: fig/alldoy.pdf used on input line 263.
+<use fig/alldoy1.pdf>
+Package pdftex.def Info: fig/alldoy1.pdf used on input line 263.
 (pdftex.def)             Requested size: 342.2953pt x 202.27026pt.
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
@@ -2674,268 +2675,929 @@ Package pdftex.def Info: fig/back_tmp.pdf used on input line 263.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
  [28
 
- <./fig/alldoy.pdf>]
+ <./fig/alldoy1.pdf>] <fig/anidoy2.pdf, id=1382, page=1, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 1>
+Package pdftex.def Info: fig/anidoy2.pdf, page1 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr0>
+<fig/anidoy2.pdf, id=1393, page=2, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 2>
+Package pdftex.def Info: fig/anidoy2.pdf, page2 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr1>
+<fig/anidoy2.pdf, id=1404, page=3, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 3>
+Package pdftex.def Info: fig/anidoy2.pdf, page3 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr2>
+<fig/anidoy2.pdf, id=1415, page=4, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 4>
+Package pdftex.def Info: fig/anidoy2.pdf, page4 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr3>
+<fig/anidoy2.pdf, id=1426, page=5, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 5>
+Package pdftex.def Info: fig/anidoy2.pdf, page5 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr4>
+<fig/anidoy2.pdf, id=1437, page=6, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 6>
+Package pdftex.def Info: fig/anidoy2.pdf, page6 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr5>
+<fig/anidoy2.pdf, id=1448, page=7, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 7>
+Package pdftex.def Info: fig/anidoy2.pdf, page7 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr6>
+<fig/anidoy2.pdf, id=1459, page=8, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 8>
+Package pdftex.def Info: fig/anidoy2.pdf, page8 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr7>
+<fig/anidoy2.pdf, id=1470, page=9, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 9>
+Package pdftex.def Info: fig/anidoy2.pdf, page9 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr8>
+<fig/anidoy2.pdf, id=1481, page=10, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 10>
+Package pdftex.def Info: fig/anidoy2.pdf, page10 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr9>
+<fig/anidoy2.pdf, id=1492, page=11, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 11>
+Package pdftex.def Info: fig/anidoy2.pdf, page11 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr10>
+<fig/anidoy2.pdf, id=1503, page=12, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 12>
+Package pdftex.def Info: fig/anidoy2.pdf, page12 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr11>
+<fig/anidoy2.pdf, id=1514, page=13, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 13>
+Package pdftex.def Info: fig/anidoy2.pdf, page13 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr12>
+<fig/anidoy2.pdf, id=1525, page=14, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 14>
+Package pdftex.def Info: fig/anidoy2.pdf, page14 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr13>
+<fig/anidoy2.pdf, id=1536, page=15, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 15>
+Package pdftex.def Info: fig/anidoy2.pdf, page15 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr14>
+<fig/anidoy2.pdf, id=1547, page=16, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 16>
+Package pdftex.def Info: fig/anidoy2.pdf, page16 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr15>
+<fig/anidoy2.pdf, id=1558, page=17, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 17>
+Package pdftex.def Info: fig/anidoy2.pdf, page17 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr16>
+<fig/anidoy2.pdf, id=1569, page=18, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 18>
+Package pdftex.def Info: fig/anidoy2.pdf, page18 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr17>
+<fig/anidoy2.pdf, id=1580, page=19, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 19>
+Package pdftex.def Info: fig/anidoy2.pdf, page19 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr18>
+<fig/anidoy2.pdf, id=1591, page=20, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 20>
+Package pdftex.def Info: fig/anidoy2.pdf, page20 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr19>
+<fig/anidoy2.pdf, id=1602, page=21, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 21>
+Package pdftex.def Info: fig/anidoy2.pdf, page21 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr20>
+<fig/anidoy2.pdf, id=1613, page=22, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 22>
+Package pdftex.def Info: fig/anidoy2.pdf, page22 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr21>
+<fig/anidoy2.pdf, id=1624, page=23, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 23>
+Package pdftex.def Info: fig/anidoy2.pdf, page23 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr22>
+<fig/anidoy2.pdf, id=1635, page=24, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 24>
+Package pdftex.def Info: fig/anidoy2.pdf, page24 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr23>
+<fig/anidoy2.pdf, id=1646, page=25, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 25>
+Package pdftex.def Info: fig/anidoy2.pdf, page25 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr24>
+<fig/anidoy2.pdf, id=1657, page=26, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 26>
+Package pdftex.def Info: fig/anidoy2.pdf, page26 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr25>
+<fig/anidoy2.pdf, id=1668, page=27, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 27>
+Package pdftex.def Info: fig/anidoy2.pdf, page27 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr26>
+<fig/anidoy2.pdf, id=1679, page=28, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 28>
+Package pdftex.def Info: fig/anidoy2.pdf, page28 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr27>
+<fig/anidoy2.pdf, id=1690, page=29, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 29>
+Package pdftex.def Info: fig/anidoy2.pdf, page29 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr28>
+<fig/anidoy2.pdf, id=1701, page=30, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 30>
+Package pdftex.def Info: fig/anidoy2.pdf, page30 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr29>
+<fig/anidoy2.pdf, id=1712, page=31, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 31>
+Package pdftex.def Info: fig/anidoy2.pdf, page31 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr30>
+<fig/anidoy2.pdf, id=1723, page=32, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 32>
+Package pdftex.def Info: fig/anidoy2.pdf, page32 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr31>
+<fig/anidoy2.pdf, id=1734, page=33, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 33>
+Package pdftex.def Info: fig/anidoy2.pdf, page33 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr32>
+<fig/anidoy2.pdf, id=1745, page=34, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 34>
+Package pdftex.def Info: fig/anidoy2.pdf, page34 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr33>
+<fig/anidoy2.pdf, id=1756, page=35, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 35>
+Package pdftex.def Info: fig/anidoy2.pdf, page35 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr34>
+<fig/anidoy2.pdf, id=1767, page=36, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 36>
+Package pdftex.def Info: fig/anidoy2.pdf, page36 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr35>
+<fig/anidoy2.pdf, id=1778, page=37, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 37>
+Package pdftex.def Info: fig/anidoy2.pdf, page37 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr36>
+<fig/anidoy2.pdf, id=1789, page=38, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 38>
+Package pdftex.def Info: fig/anidoy2.pdf, page38 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr37>
+<fig/anidoy2.pdf, id=1800, page=39, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 39>
+Package pdftex.def Info: fig/anidoy2.pdf, page39 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr38>
+<fig/anidoy2.pdf, id=1811, page=40, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 40>
+Package pdftex.def Info: fig/anidoy2.pdf, page40 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr39>
+<fig/anidoy2.pdf, id=1822, page=41, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 41>
+Package pdftex.def Info: fig/anidoy2.pdf, page41 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr40>
+<fig/anidoy2.pdf, id=1833, page=42, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 42>
+Package pdftex.def Info: fig/anidoy2.pdf, page42 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr41>
+<fig/anidoy2.pdf, id=1844, page=43, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 43>
+Package pdftex.def Info: fig/anidoy2.pdf, page43 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr42>
+<fig/anidoy2.pdf, id=1855, page=44, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 44>
+Package pdftex.def Info: fig/anidoy2.pdf, page44 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr43>
+<fig/anidoy2.pdf, id=1866, page=45, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 45>
+Package pdftex.def Info: fig/anidoy2.pdf, page45 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr44>
+<fig/anidoy2.pdf, id=1877, page=46, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 46>
+Package pdftex.def Info: fig/anidoy2.pdf, page46 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr45>
+<fig/anidoy2.pdf, id=1888, page=47, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 47>
+Package pdftex.def Info: fig/anidoy2.pdf, page47 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr46>
+<fig/anidoy2.pdf, id=1899, page=48, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 48>
+Package pdftex.def Info: fig/anidoy2.pdf, page48 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr47>
+<fig/anidoy2.pdf, id=1910, page=49, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 49>
+Package pdftex.def Info: fig/anidoy2.pdf, page49 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr48>
+<fig/anidoy2.pdf, id=1921, page=50, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 50>
+Package pdftex.def Info: fig/anidoy2.pdf, page50 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr49>
+<fig/anidoy2.pdf, id=1932, page=51, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 51>
+Package pdftex.def Info: fig/anidoy2.pdf, page51 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr50>
+<fig/anidoy2.pdf, id=1943, page=52, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 52>
+Package pdftex.def Info: fig/anidoy2.pdf, page52 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr51>
+<fig/anidoy2.pdf, id=1954, page=53, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 53>
+Package pdftex.def Info: fig/anidoy2.pdf, page53 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr52>
+<fig/anidoy2.pdf, id=1965, page=54, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 54>
+Package pdftex.def Info: fig/anidoy2.pdf, page54 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr53>
+<fig/anidoy2.pdf, id=1976, page=55, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 55>
+Package pdftex.def Info: fig/anidoy2.pdf, page55 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr54>
+<fig/anidoy2.pdf, id=1987, page=56, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 56>
+Package pdftex.def Info: fig/anidoy2.pdf, page56 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr55>
+<fig/anidoy2.pdf, id=1998, page=57, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 57>
+Package pdftex.def Info: fig/anidoy2.pdf, page57 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr56>
+<fig/anidoy2.pdf, id=2009, page=58, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 58>
+Package pdftex.def Info: fig/anidoy2.pdf, page58 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr57>
+<fig/anidoy2.pdf, id=2020, page=59, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 59>
+Package pdftex.def Info: fig/anidoy2.pdf, page59 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr58>
+<fig/anidoy2.pdf, id=2031, page=60, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 60>
+Package pdftex.def Info: fig/anidoy2.pdf, page60 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr59>
+<fig/anidoy2.pdf, id=2042, page=61, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 61>
+Package pdftex.def Info: fig/anidoy2.pdf, page61 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr60>
+<fig/anidoy2.pdf, id=2053, page=62, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 62>
+Package pdftex.def Info: fig/anidoy2.pdf, page62 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr61>
+<fig/anidoy2.pdf, id=2064, page=63, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 63>
+Package pdftex.def Info: fig/anidoy2.pdf, page63 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr62>
+<fig/anidoy2.pdf, id=2075, page=64, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 64>
+Package pdftex.def Info: fig/anidoy2.pdf, page64 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr63>
+<fig/anidoy2.pdf, id=2086, page=65, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 65>
+Package pdftex.def Info: fig/anidoy2.pdf, page65 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr64>
+<fig/anidoy2.pdf, id=2097, page=66, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 66>
+Package pdftex.def Info: fig/anidoy2.pdf, page66 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr65>
+<fig/anidoy2.pdf, id=2108, page=67, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 67>
+Package pdftex.def Info: fig/anidoy2.pdf, page67 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr66>
+<fig/anidoy2.pdf, id=2119, page=68, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 68>
+Package pdftex.def Info: fig/anidoy2.pdf, page68 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr67>
+<fig/anidoy2.pdf, id=2130, page=69, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 69>
+Package pdftex.def Info: fig/anidoy2.pdf, page69 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr68>
+<fig/anidoy2.pdf, id=2141, page=70, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 70>
+Package pdftex.def Info: fig/anidoy2.pdf, page70 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr69>
+<fig/anidoy2.pdf, id=2152, page=71, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 71>
+Package pdftex.def Info: fig/anidoy2.pdf, page71 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr70>
+<fig/anidoy2.pdf, id=2163, page=72, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 72>
+Package pdftex.def Info: fig/anidoy2.pdf, page72 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr71>
+<fig/anidoy2.pdf, id=2174, page=73, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 73>
+Package pdftex.def Info: fig/anidoy2.pdf, page73 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr72>
+<fig/anidoy2.pdf, id=2185, page=74, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 74>
+Package pdftex.def Info: fig/anidoy2.pdf, page74 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr73>
+<fig/anidoy2.pdf, id=2196, page=75, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 75>
+Package pdftex.def Info: fig/anidoy2.pdf, page75 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr74>
+<fig/anidoy2.pdf, id=2207, page=76, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 76>
+Package pdftex.def Info: fig/anidoy2.pdf, page76 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr75>
+<fig/anidoy2.pdf, id=2218, page=77, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 77>
+Package pdftex.def Info: fig/anidoy2.pdf, page77 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr76>
+<fig/anidoy2.pdf, id=2229, page=78, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 78>
+Package pdftex.def Info: fig/anidoy2.pdf, page78 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr77>
+<fig/anidoy2.pdf, id=2240, page=79, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 79>
+Package pdftex.def Info: fig/anidoy2.pdf, page79 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr78>
+<fig/anidoy2.pdf, id=2251, page=80, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 80>
+Package pdftex.def Info: fig/anidoy2.pdf, page80 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr79>
+<fig/anidoy2.pdf, id=2262, page=81, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 81>
+Package pdftex.def Info: fig/anidoy2.pdf, page81 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr80>
+<fig/anidoy2.pdf, id=2273, page=82, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 82>
+Package pdftex.def Info: fig/anidoy2.pdf, page82 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr81>
+<fig/anidoy2.pdf, id=2284, page=83, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 83>
+Package pdftex.def Info: fig/anidoy2.pdf, page83 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr82>
+<fig/anidoy2.pdf, id=2295, page=84, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 84>
+Package pdftex.def Info: fig/anidoy2.pdf, page84 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr83>
+<fig/anidoy2.pdf, id=2306, page=85, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 85>
+Package pdftex.def Info: fig/anidoy2.pdf, page85 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr84>
+<fig/anidoy2.pdf, id=2317, page=86, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 86>
+Package pdftex.def Info: fig/anidoy2.pdf, page86 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr85>
+<fig/anidoy2.pdf, id=2328, page=87, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 87>
+Package pdftex.def Info: fig/anidoy2.pdf, page87 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr86>
+<fig/anidoy2.pdf, id=2339, page=88, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 88>
+Package pdftex.def Info: fig/anidoy2.pdf, page88 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr87>
+<fig/anidoy2.pdf, id=2350, page=89, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 89>
+Package pdftex.def Info: fig/anidoy2.pdf, page89 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr88>
+<fig/anidoy2.pdf, id=2361, page=90, 794.97pt x 469.755pt>
+File: fig/anidoy2.pdf Graphic file (type pdf)
+
+<use fig/anidoy2.pdf, page 90>
+Package pdftex.def Info: fig/anidoy2.pdf, page90 used on input line 271.
+(pdftex.def)             Requested size: 273.83728pt x 161.81477pt.
+ <./fig/anidoy2.pdf> <a1,fr89>
+File: fig/logo.png Graphic file (type png)
+
+<use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 271.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+
+Overfull \vbox (4.5075pt too high) detected at line 271
+ []
+
+File: fig/back_tmp.pdf Graphic file (type pdf)
+<use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 271.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [29
+
+] <fig/alldoy2.pdf, id=2395, 794.97pt x 469.755pt>
+File: fig/alldoy2.pdf Graphic file (type pdf)
+
+<use fig/alldoy2.pdf>
+Package pdftex.def Info: fig/alldoy2.pdf used on input line 279.
+(pdftex.def)             Requested size: 342.2953pt x 202.27026pt.
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 305.
+Package pdftex.def Info: fig/logo.png used on input line 279.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 305.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 279.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [29
+ [30
+
+ <./fig/alldoy2.pdf>]
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 321.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 321.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [31
 
 pdfTeX warning (ext4): destination with the same identifier (name{totab}) has b
 een already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.305 \end{table}\end{frame}
+l.321 \end{table}\end{frame}
                             ]
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 305.
+Package pdftex.def Info: fig/logo.png used on input line 321.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 305.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 321.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
 
-[30
+[32
 
 ]
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 325.
+Package pdftex.def Info: fig/logo.png used on input line 341.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 325.
-(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [31
-
-]
-File: fig/logo.png Graphic file (type png)
- <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 325.
-(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
-File: fig/back_tmp.pdf Graphic file (type pdf)
-
-<use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 325.
-(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [32
-
-]
-File: fig/logo.png Graphic file (type png)
- <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 325.
-(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
-File: fig/back_tmp.pdf Graphic file (type pdf)
- <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 325.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 341.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
  [33
 
 ]
-<fig/shiny1.png, id=1414, 892.83563pt x 542.025pt>
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 341.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+
+<use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 341.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [34
+
+]
+File: fig/logo.png Graphic file (type png)
+ <use fig/logo.png>
+Package pdftex.def Info: fig/logo.png used on input line 341.
+(pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
+File: fig/back_tmp.pdf Graphic file (type pdf)
+ <use fig/back_tmp.pdf>
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 341.
+(pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
+ [35
+
+]
+<fig/shiny1.png, id=2443, 892.83563pt x 542.025pt>
 File: fig/shiny1.png Graphic file (type png)
  <use fig/shiny1.png>
-Package pdftex.def Info: fig/shiny1.png used on input line 334.
+Package pdftex.def Info: fig/shiny1.png used on input line 350.
 (pdftex.def)             Requested size: 290.9531pt x 176.63573pt.
 File: fig/logo.png Graphic file (type png)
 
 <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 334.
+Package pdftex.def Info: fig/logo.png used on input line 350.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 334.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 350.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [34
+ [36
 
  <./fig/shiny1.png>]
-<fig/shiny2.png, id=1422, 862.422pt x 398.9304pt>
+<fig/shiny2.png, id=2451, 862.422pt x 398.9304pt>
 File: fig/shiny2.png Graphic file (type png)
  <use fig/shiny2.png>
-Package pdftex.def Info: fig/shiny2.png used on input line 343.
+Package pdftex.def Info: fig/shiny2.png used on input line 359.
 (pdftex.def)             Requested size: 290.9531pt x 134.58754pt.
 File: fig/logo.png Graphic file (type png)
 
 <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 343.
+Package pdftex.def Info: fig/logo.png used on input line 359.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 343.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 359.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [35
+ [37
 
  <./fig/shiny2.png>]
-<fig/shiny3a.png, id=1430, 963.6pt x 421.575pt>
+<fig/shiny3a.png, id=2460, 963.6pt x 421.575pt>
 File: fig/shiny3a.png Graphic file (type png)
  <use fig/shiny3a.png>
-Package pdftex.def Info: fig/shiny3a.png used on input line 355.
+Package pdftex.def Info: fig/shiny3a.png used on input line 371.
 (pdftex.def)             Requested size: 325.17949pt x 142.26576pt.
 
-<fig/shiny3b.png, id=1431, 963.6pt x 420.06938pt>
+<fig/shiny3b.png, id=2461, 963.6pt x 420.06938pt>
 File: fig/shiny3b.png Graphic file (type png)
  <use fig/shiny3b.png>
-Package pdftex.def Info: fig/shiny3b.png used on input line 355.
+Package pdftex.def Info: fig/shiny3b.png used on input line 371.
 (pdftex.def)             Requested size: 325.17949pt x 141.75768pt.
 File: fig/logo.png Graphic file (type png)
 
 <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 355.
+Package pdftex.def Info: fig/logo.png used on input line 371.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 355.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 371.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [36
+ [38
 
  <./fig/shiny3a.png>]
 File: fig/shiny3a.png Graphic file (type png)
 
 <use fig/shiny3a.png>
-Package pdftex.def Info: fig/shiny3a.png used on input line 355.
+Package pdftex.def Info: fig/shiny3a.png used on input line 371.
 (pdftex.def)             Requested size: 325.17949pt x 142.26576pt.
 File: fig/shiny3b.png Graphic file (type png)
  <use fig/shiny3b.png>
-Package pdftex.def Info: fig/shiny3b.png used on input line 355.
+Package pdftex.def Info: fig/shiny3b.png used on input line 371.
 (pdftex.def)             Requested size: 325.17949pt x 141.75768pt.
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 355.
+Package pdftex.def Info: fig/logo.png used on input line 371.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
 
 <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 355.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 371.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [37
+ [39
 
  <./fig/shiny3b.png>]
-<fig/shiny4a.png, id=1447, 963.6pt x 462.22687pt>
+<fig/shiny4a.png, id=2476, 963.6pt x 462.22687pt>
 File: fig/shiny4a.png Graphic file (type png)
  <use fig/shiny4a.png>
-Package pdftex.def Info: fig/shiny4a.png used on input line 367.
+Package pdftex.def Info: fig/shiny4a.png used on input line 383.
 (pdftex.def)             Requested size: 325.17949pt x 155.98425pt.
 
-<fig/shiny4b.png, id=1448, 965.10562pt x 465.99094pt>
+<fig/shiny4b.png, id=2477, 965.10562pt x 465.99094pt>
 File: fig/shiny4b.png Graphic file (type png)
  <use fig/shiny4b.png>
-Package pdftex.def Info: fig/shiny4b.png used on input line 367.
+Package pdftex.def Info: fig/shiny4b.png used on input line 383.
 (pdftex.def)             Requested size: 325.17949pt x 157.00562pt.
 File: fig/logo.png Graphic file (type png)
 
 <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 367.
+Package pdftex.def Info: fig/logo.png used on input line 383.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 367.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 383.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [38
+ [40
 
  <./fig/shiny4a.png>]
 File: fig/shiny4a.png Graphic file (type png)
 
 <use fig/shiny4a.png>
-Package pdftex.def Info: fig/shiny4a.png used on input line 367.
+Package pdftex.def Info: fig/shiny4a.png used on input line 383.
 (pdftex.def)             Requested size: 325.17949pt x 155.98425pt.
 File: fig/shiny4b.png Graphic file (type png)
  <use fig/shiny4b.png>
-Package pdftex.def Info: fig/shiny4b.png used on input line 367.
+Package pdftex.def Info: fig/shiny4b.png used on input line 383.
 (pdftex.def)             Requested size: 325.17949pt x 157.00562pt.
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 367.
+Package pdftex.def Info: fig/logo.png used on input line 383.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
 
 <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 367.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 383.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [39
+ [41
 
  <./fig/shiny4b.png>]
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 394.
+Package pdftex.def Info: fig/logo.png used on input line 410.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
 
 <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 394.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 410.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [40
+ [42
 
 ]
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 394.
+Package pdftex.def Info: fig/logo.png used on input line 410.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 394.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 410.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [41
+ [43
 
 ]
 File: fig/logo.png Graphic file (type png)
 
 <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 394.
+Package pdftex.def Info: fig/logo.png used on input line 410.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 394.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 410.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [42
+ [44
 
 ]
-<fig/sfei1.png, id=1481, 677.53125pt x 677.53125pt>
+<fig/sfei1.png, id=2511, 677.53125pt x 677.53125pt>
 File: fig/sfei1.png Graphic file (type png)
  <use fig/sfei1.png>
-Package pdftex.def Info: fig/sfei1.png used on input line 440.
+Package pdftex.def Info: fig/sfei1.png used on input line 456.
 (pdftex.def)             Requested size: 61.6144pt x 61.6058pt.
 
-<fig/sfei2.png, id=1482, 752.8125pt x 752.8125pt>
+<fig/sfei2.png, id=2512, 752.8125pt x 752.8125pt>
 File: fig/sfei2.png Graphic file (type png)
  <use fig/sfei2.png>
-Package pdftex.def Info: fig/sfei2.png used on input line 440.
+Package pdftex.def Info: fig/sfei2.png used on input line 456.
 (pdftex.def)             Requested size: 61.6144pt x 61.60466pt.
 
-<fig/sccwrp_logo.png, id=1483, 126.7134pt x 87.6876pt>
+<fig/sccwrp_logo.png, id=2513, 126.7134pt x 87.6876pt>
 File: fig/sccwrp_logo.png Graphic file (type png)
 
 <use fig/sccwrp_logo.png>
-Package pdftex.def Info: fig/sccwrp_logo.png used on input line 440.
+Package pdftex.def Info: fig/sccwrp_logo.png used on input line 456.
 (pdftex.def)             Requested size: 61.6144pt x 42.63814pt.
- <fig/tbep_logo.png, id=1484, 805.5696pt x 542.025pt>
+ <fig/tbep_logo.png, id=2514, 805.5696pt x 542.025pt>
 File: fig/tbep_logo.png Graphic file (type png)
 
 <use fig/tbep_logo.png>
-Package pdftex.def Info: fig/tbep_logo.png used on input line 440.
+Package pdftex.def Info: fig/tbep_logo.png used on input line 456.
 (pdftex.def)             Requested size: 61.6144pt x 41.45236pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 440.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 456.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [43
+ [45
 
  <./fig/sfei1.png> <./fig/sfei2.png> <./fig/sccwrp_logo.png> <./fig/tbep_logo.p
 ng>] (Beck_etal_CERF_2019.bbl)
 File: fig/logo.png Graphic file (type png)
  <use fig/logo.png>
-Package pdftex.def Info: fig/logo.png used on input line 450.
+Package pdftex.def Info: fig/logo.png used on input line 466.
 (pdftex.def)             Requested size: 54.62708pt x 23.33368pt.
 File: fig/back_tmp.pdf Graphic file (type pdf)
  <use fig/back_tmp.pdf>
-Package pdftex.def Info: fig/back_tmp.pdf used on input line 450.
+Package pdftex.def Info: fig/back_tmp.pdf used on input line 466.
 (pdftex.def)             Requested size: 364.20192pt x 273.15337pt.
- [44
+ [46
 
 ]
 \tf@nav=\write7
@@ -2947,11 +3609,11 @@ Package pdftex.def Info: fig/back_tmp.pdf used on input line 450.
 \tf@snm=\write9
 \openout9 = `Beck_etal_CERF_2019.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 452.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 452.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 468.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 468.
  (Beck_etal_CERF_2019.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 452.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 452.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 468.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 468.
 Package rerunfilecheck Info: File `Beck_etal_CERF_2019.out' has not changed.
 (rerunfilecheck)             Checksum: 51200747882F934395D1FAE6A43F5AC4;225.
 
@@ -2960,10 +3622,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30431 strings out of 493323
- 585331 string characters out of 3139064
- 659762 words of memory out of 3000000
- 33273 multiletter control sequences out of 15000+200000
+ 30896 strings out of 493323
+ 597728 string characters out of 3139064
+ 675374 words of memory out of 3000000
+ 33732 multiletter control sequences out of 15000+200000
  584160 words of font info for 116 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,15n,96p,10422b,777s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2979,9 +3641,9 @@ msfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on Beck_etal_CERF_2019.pdf (44 pages, 14831995 bytes).
+Output written on Beck_etal_CERF_2019.pdf (46 pages, 25056345 bytes).
 PDF statistics:
- 1577 PDF objects out of 1728 (max. 8388607)
- 102 named destinations out of 1000 (max. 500000)
- 2375 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2607 PDF objects out of 2984 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
+ 4463 words of extra memory for PDF output out of 10000 (max. 10000000)
 

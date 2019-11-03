@@ -116,37 +116,6 @@ writeLines(refs, con = file('refs.bib'))
 \end{frame}
 
 %%%%%%
-\begin{frame}{\textbf{Trends vary in space and time} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
-\centerline{\emtxt{Observed data represent effects of many processes}}
-\vspace{0.15in}
-\centerline{\includegraphics[width = \textwidth]{fig/ts_ex.pdf}}
-\vspace{0.15in}
-\begin{columns}[t]
-\begin{column}{0.3\textwidth}
-{\bf \underline{\emtxt{Climate}}}\\
-precipitation\\
-temperature\\
-wind events\\
-ENSO effects
-\end{column}
-\begin{column}{0.3\textwidth}
-{\bf \underline{\emtxt{Local}}}\\
-light/turbidity\\
-residence time\\
-invasive species\\
-trophic effects
-\end{column}
-\begin{column}{0.3\textwidth}
-{\bf \underline{\emtxt{Regional/historical}}}\\
-watershed inputs\\
-point sources\\
-management actions
-flow changes
-\end{column}
-\end{columns}
-\end{frame}
-
-%%%%%%
 \begin{frame}{\textbf{Must translate data into information} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \onslide<+->
 \centerline{\emtxt{Observed data represents effects of many processes}}
@@ -288,7 +257,7 @@ Questions of concern: \\~\\
 \begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \vspace{-0.2in}
 \begin{center}
-\animategraphics[controls,width=\linewidth]{12}{fig/anidoy}{}{} %frame rate is 12 per/sec
+\animategraphics[controls,width=\linewidth]{12}{fig/anidoy1}{}{} %frame rate is 12 per/sec
 \end{center}
 \end{frame}
 
@@ -296,7 +265,23 @@ Questions of concern: \\~\\
 \begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
 \vspace{-0.15in}
 \begin{center}
-\includegraphics[width=\textwidth]{fig/alldoy.pdf}
+\includegraphics[width=\textwidth]{fig/alldoy1.pdf}
+\end{center}
+\end{frame}
+
+%%%%%%
+\begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\vspace{-0.2in}
+\begin{center}
+\animategraphics[controls,width=\linewidth]{12}{fig/anidoy2}{}{} %frame rate is 12 per/sec
+\end{center}
+\end{frame}
+
+%%%%%%
+\begin{frame}{\textbf{Application of additive models} \hspace{0pt plus 1 filll} $\vcenter{\hbox{\includegraphics[width=0.15\paperwidth]{fig/logo.png}}}$}
+\vspace{-0.15in}
+\begin{center}
+\includegraphics[width=\textwidth]{fig/alldoy2.pdf}
 \end{center}
 \end{frame}
 

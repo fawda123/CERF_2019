@@ -345,22 +345,137 @@ for(i in seq_along(mods)){
   
 }
 
-pdf(here::here('fig', 'gamex.pdf'), family = 'serif', height = 5, width = 5)
+pdf(here::here('fig', 'gamex.pdf'), family = 'serif', height = 4.75, width = 5)
 pa1
 pa2 
 pa3
 pa4
 dev.off()
 
-pdf(here::here('fig', 'gamex2.pdf'), family = 'serif', height = 5, width = 5)
+pdf(here::here('fig', 'gamex2.pdf'), family = 'serif', height = 4.75, width = 5)
 pb1 
 pb2
 pb3
 pb4
 dev.off()
 
+# animation select stations -----------------------------------------------
 
-# animation ---------------------------------------------------------------
+data("modssta_chl")
+
+pal <- function(x) rev(colorspace::sequential_hcl(x, palette = "PuBuGn"))
+
+# get predictions to plot
+prdplo <- modssta_chl %>%
+  filter(station %in% c(18, 24, 27, 32)) %>% 
+  mutate(prddat = pmap(list(data, modv), function(data, modv){
+    
+    
+    prddat <- data.frame(
+      dec_time = seq(min(data$dec_time), max(data$dec_time), length = 1000)
+    ) %>%
+      mutate(
+        date = date_decimal(dec_time),
+        date = as.Date(date),
+        mo = month(date, label = TRUE),
+        doy = yday(date),
+        yr = year(date)
+      )
+    
+    prd <- predict(modv, newdata = prddat)
+    
+    prddat <- prddat %>% mutate(chl = prd)
+    
+    return(prddat)
+    
+  })) %>% 
+  select(station, modi, prddat) %>% 
+  unnest(prddat)
+
+ylabs <- expression(paste(log[10], ' Chl- ',italic(a),' (',italic('\u03bc'),'g ',L^-1,')'))
+
+toplo <- prdplo %>% 
+  filter(yr >= 1991)
+
+bgcol <- pal(5)[1]
+
+# use gganimate for smooth transitions
+anim <- ggplot(toplo, aes(x = doy, colour = yr)) + 
+  geom_line(aes(y = chl), size = 1) + 
+  theme_bw(base_family = 'serif', base_size = 18) + 
+  theme(
+    legend.position = 'right', 
+    legend.title = element_blank(), 
+    # axis.text.x= element_text(size = 8),
+    plot.background = element_rect(fill= bgcol, 
+                                   colour = bgcol),
+    panel.background = element_rect(fill=bgcol, 
+                                    colour = bgcol), 
+    legend.background = element_rect(fill = bgcol, 
+                                     colour = bgcol), 
+    strip.background = element_blank()
+  ) + 
+  scale_colour_continuous_sequential(palette = colpal, rev = T, begin = 0.2) +
+  guides(colour = guide_colourbar(barheight = 20, barwidth = 1)) +
+  facet_grid(modi ~ station) +
+  labs(x = 'Day of year', title ='Year: {frame_time}', y = ylabs) + 
+  transition_time(yr) + 
+  ease_aes('linear')
+
+# save as png
+animate(
+  anim,
+  renderer = file_renderer('fig', prefix = 'yrplo', overwrite = T), 
+  width = 11, height = 6.5, res = 200, units = 'in',
+  device = 'png', 
+  nframes = 90
+)
+
+# convert png to pdf
+fls <- list.files('fig', pattern = '^yrplo.*\\.png', full.names = T)
+for(fl in fls){
+  cat(fl, '\n')
+  tmp <- rasterGrob(readPNG(fl, native = FALSE))
+  pdf(gsub('\\.png', '\\.pdf', fl), width = 11, height = 6.5)
+  grid.arrange(tmp)
+  dev.off()
+}
+
+# combine files in a single pdf
+fls <- list.files('fig', pattern = '^yrplo.*\\.pdf', full.names = T)
+pdftools::pdf_combine(fls, output = 'fig/anidoy1.pdf')
+
+# clean up
+file.remove(fls)
+file.remove(gsub('\\.pdf', '\\.png', fls))
+
+# doy subset results from animation ------------------------------------------
+
+p <- ggplot(toplo, aes(x = doy, colour = yr, group = factor(yr))) + 
+  geom_line(aes(y = chl)) + 
+  theme_bw(base_family = 'serif', base_size = 18) + 
+  theme(
+    legend.position = 'right', 
+    legend.title = element_blank(), 
+    # axis.text.x= element_text(size = 8),
+    plot.background = element_rect(fill= bgcol, 
+                                   colour = bgcol),
+    panel.background = element_rect(fill=bgcol, 
+                                    colour = bgcol), 
+    legend.background = element_rect(fill = bgcol, 
+                                     colour = bgcol), 
+    strip.background = element_blank()
+  ) + 
+  scale_colour_continuous_sequential(palette = colpal, rev = T, begin = 0.2) +
+  guides(colour = guide_colourbar(barheight = 20, barwidth = 1)) +
+  facet_grid(modi ~ station) +
+  labs(x = 'Day of year', title = 'All years', y = ylabs)
+
+pdf(here::here('fig', 'alldoy1.pdf'), width = 11, height = 6.5)
+p
+dev.off()
+
+# animation all stations --------------------------------------------------
 
 data("modssta_chl")
 
@@ -443,7 +558,7 @@ for(fl in fls){
 
 # combine files in a single pdf
 fls <- list.files('fig', pattern = '^yrplo.*\\.pdf', full.names = T)
-pdftools::pdf_combine(fls, output = 'fig/anidoy.pdf')
+pdftools::pdf_combine(fls, output = 'fig/anidoy2.pdf')
 
 # clean up
 file.remove(fls)
@@ -472,7 +587,7 @@ p <- ggplot(toplo, aes(x = doy, colour = yr, group = factor(yr))) +
   facet_grid(modi ~ station) +
   labs(x = 'Day of year', title = 'All years', y = ylabs)
  
-pdf(here::here('fig', 'alldoy.pdf'), width = 11, height = 6.5)
+pdf(here::here('fig', 'alldoy2.pdf'), width = 11, height = 6.5)
 p
 dev.off()
 
